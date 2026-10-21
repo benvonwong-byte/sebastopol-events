@@ -4,7 +4,7 @@ The state of Sebastopol Events, for whoever picks it up next. Read this and the 
 
 ## Who has it
 
-Ben (benvonwong-byte) built it with Claude on 2026-10-20 and asked for Jeff Mendelsohn (@jeffmendelsohn) to pick it up from here. Jeff is a collaborator on the repo with write access, which covers pushing, merging pull requests and running the workflows. Pages settings and a custom domain need admin access on the repo; ask Ben for it if you need those.
+Ben (benvonwong-byte) built it with Claude on 2026-10-20 and asked for Jeff Mendelsohn (@jeffmendelsohn) to pick it up from here. Jeff accepted the invitation on 2026-10-21 and has write access, which covers pushing, merging pull requests and running the workflows. Pages settings and a custom domain need admin access on the repo; ask Ben for it if you need those.
 
 ## What it is
 
@@ -29,10 +29,10 @@ A version of the Sunset events site (`benvonwong-byte/sunset-buildathon`, sunset
 
 ## What is left
 
-- Watch the first few morning runs (Actions tab, "Refresh listings and deploy"). The footer of the site lists each source and how many events it gave that morning. The first run from GitHub's servers (2026-10-21) read 60 of 68 sources and published 2,175 events. Eventbrite refused it ("no csrftoken cookie"), and six WordPress sites answered their REST endpoint with a block page: the Community Cultural Center, Farm Trails, Luther Burbank Center, Gold Ridge RCD, CNPS Milo Baker and OAEC (403). Their events stayed on the site through the 14-day last-good fallback. `scripts/lib/read-feed.mjs` now falls back to each site's `?ical=1` export when the REST endpoint fails; check the next run's log to see whether that got through. The Farm Trails aggregator has its own reader without that fallback. Meetup and CitySpark worked from GitHub.
+- Watch the first few morning runs (Actions tab, "Refresh listings and deploy"). The footer of the site lists each source and how many events it gave that morning. The first run from GitHub's servers (2026-10-21) read 60 of 68 sources and published 2,175 events. Eventbrite refused it ("no csrftoken cookie"), and six WordPress sites answered their REST endpoint with a block page: the Community Cultural Center, Farm Trails, Luther Burbank Center, Gold Ridge RCD, CNPS Milo Baker and OAEC (403). Their events stayed on the site through the 14-day last-good fallback. `scripts/lib/read-feed.mjs` now falls back to each site's `?ical=1` export when the REST endpoint fails. On the second run that recovered OAEC (61 of 68 sources, 2,176 events); the Cultural Center, Luther Burbank Center, Gold Ridge RCD and CNPS block the export too, and so does Farm Trails, whose aggregator has its own reader. Meetup and CitySpark worked from GitHub.
+- **The fix for every blocked source is the home refresh.** `scripts/install-home-refresh.sh` installs a launch agent on a Mac that runs the same fetch from a home connection each morning and pushes the data; Eventbrite and these WordPress sites answer a home connection. Without it, their events drop off 14 days after the last good read (the one committed on 2026-10-20). Whoever runs it needs push access and a Mac that is on in the morning.
 - The Parks and Tourism readers parse page HTML, so a redesign of either site makes them return nothing without an error. A source that returns nothing keeps its last good read for 14 days.
 - srcity.org (City of Santa Rosa) and sonoma.edu answer every server request with a Cloudflare block, so those calendars are not read.
-- Eventbrite turns away GitHub's servers, so Eventbrite listings appear only on mornings when `scripts/home-refresh.sh` runs from a home connection. `scripts/install-home-refresh.sh` installs it as a launch agent; it is not installed for this repo yet.
 - Some groups have no readable calendar: `docs/needs-a-feed.md` lists them, refreshed every morning.
 
 ## Decisions for Ben (and Jeff)
