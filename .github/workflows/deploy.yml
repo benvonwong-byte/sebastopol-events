@@ -1,0 +1,78 @@
+name: Refresh listings and deploy
+
+# Every morning: read every feed, rebuild the site, publish to GitHub Pages.
+# Also runs on every push to main, so a merged calendar or event shows up
+# within minutes.
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 13 * * *" # 6:23 AM Pacific in summer, 5:23 AM in winter
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Language gate, data check and tests
+        run: npm run gate
+
+      - name: Place new groups on the map
+        run: node scripts/geocode-orgs.mjs
+
+      - name: Read every feed
+        run: node scripts/fetch-events.mjs
+
+      - name: Update the list of groups without a calendar
+        run: node scripts/needs-feed.mjs
+
+      - name: Build the site
+        run: node scripts/build.mjs
+
+      # Keep a dated record of each morning's listings in the repo. Only on
+      # the schedule and manual runs, so a contributor's push is not followed
+      # by a bot commit they then have to pull.
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "sebastopol-events-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json data/geocache.json data/orgs.json data/manual-events.json docs/needs-a-feed.md
+          if ! git diff --cached --quiet; then
+            git commit -m "data: listings for $(date -u +%F)"
+            git pull --rebase --autostash origin main
+            git push
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

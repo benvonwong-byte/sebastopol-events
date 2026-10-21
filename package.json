@@ -1,0 +1,21 @@
+{
+  "name": "sebastopol-events",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sebastopol Events: every public event in Sebastopol, California (ZIP 95472) and the towns within about 22 km, the groups behind them, and a map. Rebuilt every morning from public calendars; anyone can add theirs.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-events.mjs",
+    "geocode": "node scripts/geocode-orgs.mjs",
+    "gate": "node scripts/check-voice.mjs && node scripts/check-data.mjs && node --test tests/*.test.mjs",
+    "build": "node scripts/check-voice.mjs && node scripts/check-data.mjs && node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs dist 4322",
+    "all": "npm run geocode && npm run fetch && npm run tasks && npm run build",
+    "tasks": "node scripts/needs-feed.mjs",
+    "intake": "node scripts/intake.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

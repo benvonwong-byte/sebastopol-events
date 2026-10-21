@@ -1,0 +1,52 @@
+name: Add one event
+description: A single public event in Sebastopol or a town nearby. A bot checks the date and the place and replies here.
+title: "Add event: "
+labels: [add-event]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a one-off. If the group has more than one event, a calendar link saves posting each one: use "Add a calendar" instead.
+  - type: input
+    id: event
+    attributes:
+      label: Event name
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date (yyyy-mm-dd)
+      placeholder: "2026-11-14"
+    validations:
+      required: true
+  - type: input
+    id: start
+    attributes:
+      label: Start time
+      placeholder: "18:30, or 6:30 pm"
+  - type: input
+    id: end
+    attributes:
+      label: End time
+      placeholder: "20:00, or 8 pm"
+  - type: input
+    id: place
+    attributes:
+      label: Place and street address
+      placeholder: Ives Park, 7400 Willow St, Sebastopol
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link for details or tickets
+      placeholder: https://
+  - type: input
+    id: host
+    attributes:
+      label: Who is hosting it
+  - type: textarea
+    id: about
+    attributes:
+      label: One or two sentences about it

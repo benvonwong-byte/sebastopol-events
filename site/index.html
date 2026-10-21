@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Sebastopol Events: groups, map and calendar for Sebastopol, CA</title>
+  <meta name="description" content="Public events, groups and places in Sebastopol, California, and the towns around it, gathered every morning from local calendars, the library, Luma, Eventbrite and Meetup.">
+  <!--ROBOTS-->
+  <meta name="theme-color" content="#111111">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="canonical" href="__BASE__">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sebastopol Events">
+  <meta property="og:description" content="Public events, groups and places in Sebastopol and the towns around it, gathered every morning.">
+  <meta property="og:url" content="__BASE__">
+  <meta property="og:image" content="__BASE__assets/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Sebastopol Events">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="alternate" type="text/calendar" title="Sebastopol and nearby (ICS)" href="events.ics">
+  <link rel="alternate" type="application/rss+xml" title="Sebastopol events (RSS)" href="events.rss">
+  <link rel="alternate" type="application/feed+json" title="Sebastopol events (JSON Feed)" href="feed.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css?v=__VERSION__">
+  <!--JSONLD-->
+</head>
+<body>
+  <header class="band">
+    <a class="logotype" href="./" aria-label="Sebastopol Events, home"><span>Sebastopol</span><span>Events + Groups</span></a>
+    <nav class="nav" aria-label="Views">
+      <div class="nav-in" role="tablist">
+        <button role="tab" class="nav-tab" id="tab-groups" data-view="groups" aria-controls="view-groups">Groups</button>
+        <button role="tab" class="nav-tab" id="tab-map" data-view="map" aria-controls="view-map">Map</button>
+        <button role="tab" class="nav-tab" id="tab-events" data-view="events" aria-controls="view-events">Events</button>
+        <button class="nav-tab nav-add" id="open-add">Add</button>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1 id="headline">Groups</h1>
+    <p class="sub" id="subline"></p>
+    <div class="area-switch" role="group" aria-label="Which area">
+      <button data-area="sebastopol">Sebastopol</button>
+      <button data-area="nearby">Sebastopol + nearby</button>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <section id="view-groups" role="tabpanel" aria-labelledby="tab-groups" hidden>
+      <div class="tools">
+        <label class="sr-only" for="g-search">Search groups</label>
+        <input class="search" id="g-search" type="search" placeholder="Search groups: farm, library, food pantry, music" autocomplete="off">
+        <div class="chips" id="kind-chips" role="group" aria-label="Kind of group"></div>
+      </div>
+      <div id="group-list"></div>
+    </section>
+
+    <section id="view-map" role="tabpanel" aria-labelledby="tab-map" hidden>
+      <div class="tools tools-row">
+        <div class="seg" id="map-mode" role="group" aria-label="What the map shows">
+          <button data-mode="today">Today</button>
+          <button data-mode="week">Next 7 days</button>
+          <button data-mode="groups">Groups</button>
+        </div>
+        <span class="count" id="map-count"></span>
+      </div>
+      <div id="map" role="region" aria-label="Map of Sebastopol and the towns around it"></div>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <section id="view-events" role="tabpanel" aria-labelledby="tab-events" hidden>
+      <div class="tools">
+        <label class="sr-only" for="e-search">Search events</label>
+        <input class="search" id="e-search" type="search" placeholder="Search events: music, farm, kids, yoga" autocomplete="off">
+        <div class="chips" id="cat-chips" role="group" aria-label="Kind of event"></div>
+      </div>
+      <div class="date-strip" id="date-strip" aria-label="Jump to a day"></div>
+      <p class="filter-note" id="filter-note" hidden></p>
+      <div id="thread"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="foot-in">
+      <div>
+        <h2>How this works</h2>
+        <p>Every morning a script reads the public calendars of the groups listed here, the ones people add through this site, the Sonoma County Library, and the Luma, Eventbrite and Meetup listings for this part of the county. It keeps what happens in Sebastopol (ZIP 95472) and in the towns within about 22 km, and merges anything listed twice. Check the organizer's page before you go.</p>
+        <p><button class="foot-link" id="foot-add">Add your calendar or an event</button> · <button class="foot-link" id="open-subscribe">Subscribe or use the feeds</button> · <a href="https://github.com/benvonwong-byte/sebastopol-events">Code on GitHub</a></p>
+      </div>
+      <div>
+        <h2>Sources this morning</h2>
+        <ul class="sources" id="sources"></ul>
+      </div>
+    </div>
+  </footer>
+
+  <dialog id="add-dialog" aria-labelledby="add-title">
+    <div class="dlg-head"><p class="label">Add to the calendar</p><button class="x" data-close aria-label="Close">&times;</button></div>
+    <div class="dlg-body">
+      <h2 id="add-title">Get your events here</h2>
+      <div class="add-tabs" role="tablist">
+        <button role="tab" data-add="feed" aria-selected="true">A calendar</button>
+        <button role="tab" data-add="event" aria-selected="false">One event</button>
+        <button role="tab" data-add="guide" aria-selected="false">No calendar yet</button>
+      </div>
+
+      <div class="add-pane" data-pane="feed">
+        <p>Paste the link to wherever your group keeps its events. We read it every morning, so new events appear here on their own.</p>
+        <label class="field"><span>Calendar or feed link</span><input id="feed-url" type="url" placeholder="lu.ma/your-calendar, a Google Calendar, meetup.com/your-group, an RSS feed"></label>
+        <p class="detect" id="feed-detect" aria-live="polite"></p>
+        <label class="field"><span>Group or calendar name</span><input id="feed-name" type="text" placeholder="Sebastopol Garden Club"></label>
+        <p class="small">Works with Luma, Google Calendar (a public calendar), Meetup, Eventbrite, Mobilize, Tockify, any .ics or webcal link, RSS feeds, and Squarespace or WordPress events pages.</p>
+        <div class="actions"><button class="btn" id="feed-send">Send it</button><a class="btn ghost" id="feed-mail" href="#">Email it instead</a></div>
+        <p class="small">"Send it" opens a short form on GitHub, where a free account is needed. A bot checks the link within a minute and replies with what it found.</p>
+      </div>
+
+      <div class="add-pane" data-pane="event" hidden>
+        <p>For a one-off. For anything that repeats, <button class="inline-link" data-goto="feed">a calendar link</button> saves you posting each one.</p>
+        <label class="field"><span>Event name</span><input id="ev-name" type="text"></label>
+        <div class="field-row">
+          <label class="field"><span>Date</span><input id="ev-date" type="date"></label>
+          <label class="field"><span>Start</span><input id="ev-start" type="time"></label>
+          <label class="field"><span>End</span><input id="ev-end" type="time"></label>
+        </div>
+        <label class="field"><span>Place and street address</span><input id="ev-place" type="text" placeholder="Ives Park, 7400 Willow St, Sebastopol"></label>
+        <label class="field"><span>Link for details or tickets</span><input id="ev-link" type="url" placeholder="https://"></label>
+        <label class="field"><span>Who is hosting it</span><input id="ev-host" type="text"></label>
+        <label class="field"><span>One or two sentences about it</span><textarea id="ev-about" rows="2"></textarea></label>
+        <div class="actions"><button class="btn" id="ev-send">Send it</button><a class="btn ghost" id="ev-mail" href="#">Email it instead</a></div>
+      </div>
+
+      <div class="add-pane guide" data-pane="guide" hidden>
+        <p>If your group posts events only on Instagram, a flyer or a web page of text, five minutes with one of these puts every future event here.</p>
+        <h3>Luma (easiest)</h3>
+        <ol>
+          <li>Go to <a href="https://luma.com" target="_blank" rel="noopener">luma.com</a> and sign up free.</li>
+          <li>Create a calendar for your group, then add events to it.</li>
+          <li>Paste the calendar's page link under <button class="inline-link" data-goto="feed">A calendar</button>.</li>
+        </ol>
+        <h3>Google Calendar</h3>
+        <ol>
+          <li>In Google Calendar, make a new calendar for your group's public events.</li>
+          <li>In its settings, under "Access permissions", tick "Make available to public".</li>
+          <li>Copy "Public address in iCal format" and paste it under <button class="inline-link" data-goto="feed">A calendar</button>.</li>
+        </ol>
+        <h3>Already have a website?</h3>
+        <p>Squarespace and WordPress (with The Events Calendar) events pages work as they are: paste the events page link under <button class="inline-link" data-goto="feed">A calendar</button>. So do Meetup, Eventbrite organizer pages, and any page with an RSS feed of events.</p>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog id="subscribe-dialog" aria-labelledby="sub-title">
+    <div class="dlg-head"><p class="label">Subscribe</p><button class="x" data-close aria-label="Close">&times;</button></div>
+    <div class="dlg-body">
+      <h2 id="sub-title">Take these events with you</h2>
+      <p>Subscribe in your calendar app and new events appear on their own.</p>
+      <label class="field"><span>Which events</span><select id="sub-cat"></select></label>
+      <input class="feed-url" id="sub-url" readonly aria-label="Feed address">
+      <div class="actions">
+        <a class="btn" id="sub-webcal" href="#">Apple and Outlook</a>
+        <a class="btn ghost" id="sub-google" href="#" target="_blank" rel="noopener">Google Calendar</a>
+        <button class="btn ghost" id="sub-copy">Copy address</button>
+      </div>
+      <h3>For other sites and tools</h3>
+      <p class="small">The same listings, refreshed every morning: <a href="events.rss">RSS</a>, <a href="feed.json">JSON Feed</a>, <a href="events.ics">iCalendar</a>, and the raw <a href="data/events.json">data file</a>. Use them freely.</p>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">This page needs JavaScript. The listings are also at <a href="events.rss">events.rss</a> and <a href="events.ics">events.ics</a>.</p></noscript>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+  <script type="module" src="app.js?v=__VERSION__"></script>
+</body>
+</html>

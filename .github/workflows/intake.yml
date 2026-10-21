@@ -1,0 +1,38 @@
+name: Check a submission
+
+# Someone used "Add" on the site, which opens an issue from one of the forms in
+# .github/ISSUE_TEMPLATE. This reads the link or the event, replies on the
+# issue with what it found, and opens a pull request for a maintainer to merge.
+# The issue text is untrusted: scripts/intake.mjs reads it from the event
+# payload in Node and never passes it through a shell.
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: intake-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    if: >-
+      github.event.issue.state == 'open' &&
+      (contains(github.event.issue.labels.*.name, 'add-source') ||
+       contains(github.event.issue.labels.*.name, 'add-event'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Check it and propose it
+        run: node scripts/intake.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}

@@ -1,0 +1,3471 @@
+[
+  {
+    "id": "6th-street-playhouse",
+    "name": "6th Street Playhouse",
+    "url": "https://6thstreetplayhouse.com/",
+    "what": "Community theater in Railroad Square, Santa Rosa, with a full season of plays and musicals, open auditions and youth theater classes.",
+    "plugIn": "Buy a ticket, audition for a show, or enroll a child in a class.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "52 West 6th Street, Santa Rosa, CA 95401",
+    "eventsPage": "https://6thstreetplayhouse.com/2026-27-season-shows/",
+    "instagram": "https://www.instagram.com/6thstplayhouse/",
+    "feeds": [],
+    "evidence": "https://6thstreetplayhouse.com/2026-27-season-shows/",
+    "lat": 38.43803,
+    "lng": -122.72317
+  },
+  {
+    "id": "ambix-spirits",
+    "name": "Ambix Spirits",
+    "url": "https://ambixspirits.com/",
+    "what": "Small distillery on High School Road making spirits from Sonoma County apples, with tastings, workshops and seasonal symposium events.",
+    "plugIn": "Reserve a tasting visit or come to a seasonal event such as the winter symposium.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1944 High School Road, Sebastopol, CA 95472",
+    "eventsPage": "https://ambixspirits.com/events/",
+    "instagram": "https://www.instagram.com/ambixspirits/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/ambix-spirits/?ical=1"
+      }
+    ],
+    "evidence": "https://ambixspirits.com/events/ (Winter Symposium, November 14)",
+    "lat": 38.42524,
+    "lng": -122.83201
+  },
+  {
+    "id": "analy-band-wagon",
+    "name": "Analy Band Wagon",
+    "url": "https://www.analybandwagon.org/",
+    "what": "Parent and community booster group that funds and supports the Analy High School band and orchestra program.",
+    "plugIn": "Come to the ABW Fall Festival or a school concert, volunteer at an event, or donate to the music program.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6950 Analy Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.analybandwagon.org/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.analybandwagon.org/ (ABW Fall Festival Fri Oct 23; pep band Nov 22; 2026 copyright)",
+    "lat": 38.40698,
+    "lng": -122.82582
+  },
+  {
+    "id": "analy-high-school",
+    "name": "Analy High School",
+    "url": "https://www.wscuhsd.org/o/analy",
+    "what": "Public high school in the West Sonoma County Union High School District, which also hosts community events such as a student-run voter information night.",
+    "plugIn": "Come to public school events such as games, shows and the voter information night in the Analy library and cafeteria.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6950 Analy Ave, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolcalendar.com/event/voter-information-night/ (Oct 20 2026)",
+    "lat": 38.40698,
+    "lng": -122.82582
+  },
+  {
+    "id": "andy-s-produce-market",
+    "name": "Andy's Produce Market",
+    "url": "https://andysproduce.com/",
+    "what": "Family-owned produce market on Gravenstein Highway North since 1964, selling fruit, vegetables and groceries from Sonoma County growers.",
+    "plugIn": "Shop there for local produce, groceries and picnic meals.",
+    "kind": "market",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1790 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/andysproducemarket/",
+    "feeds": [],
+    "evidence": "https://andysproduce.com/ (copyright 2026)",
+    "lat": 38.42088,
+    "lng": -122.84612
+  },
+  {
+    "id": "apple-blossom-parade-and-festival",
+    "name": "Apple Blossom Parade & Festival",
+    "url": "https://www.appleblossomfest.com/",
+    "what": "Yearly April parade down Main Street and two-day festival with music, food, kids activities and an art show, run by the Sebastopol Chamber of Commerce.",
+    "plugIn": "Watch the parade, buy a festival ticket, march in the parade, apply as a vendor, or volunteer; the 2027 dates are April 24 and 25.",
+    "kind": "civic",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.appleblossomfest.com/ (81st festival in 2026; 2027 festival set for April 24 and 25)"
+  },
+  {
+    "id": "arlene-francis-center",
+    "name": "Arlene Francis Center",
+    "url": "https://arlenefranciscenter.org/",
+    "what": "Community arts space near the Santa Rosa SMART station for music, art, politics and spiritual practice, with shows, classes and meetings.",
+    "plugIn": "Go to a show, class or group meeting listed on the events page, or rent the space.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "civic",
+      "wellbeing"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "99 6th Street, Santa Rosa, CA 95401",
+    "eventsPage": "https://arlenefranciscenter.org/events/",
+    "instagram": "https://www.instagram.com/thearlenefranciscenter/",
+    "feeds": [],
+    "evidence": "https://arlenefranciscenter.org/events/ (Eclectic Harmony Fest, September 26, 2026)",
+    "lat": 38.43878,
+    "lng": -122.72178
+  },
+  {
+    "id": "bodega-bay-fisherman-s-festival",
+    "name": "Bodega Bay Fisherman's Festival",
+    "url": "https://www.bbfishfest.org/",
+    "what": "Spring festival at Westside Park with a blessing of the fleet, art and craft booths, food and music, next held May 1 and 2, 2027.",
+    "plugIn": "Buy a ticket, enter the art contest or pet parade, or volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Bodega Bay",
+    "address": "2400 Westshore Road, Bodega Bay, CA 94923",
+    "eventsPage": "https://www.bbfishfest.org/",
+    "instagram": "https://www.instagram.com/bodegabayfishfest/",
+    "feeds": [],
+    "evidence": "https://www.bbfishfest.org/ (2026 photo gallery, 2027 dates)",
+    "lat": 38.33536,
+    "lng": -123.05279
+  },
+  {
+    "id": "bodega-land-trust",
+    "name": "Bodega Land Trust",
+    "url": "https://bodegalandtrust.org/",
+    "what": "Land trust for the Bodega area that protects local land and water, with walks and talks, volunteer land monitoring and an annual dinner.",
+    "plugIn": "Join a walk or talk, or train as a volunteer land monitor.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Bodega",
+    "address": null,
+    "eventsPage": "https://bodegalandtrust.org/news-events/",
+    "instagram": "https://www.instagram.com/bodega_land_trust/",
+    "feeds": [],
+    "evidence": "https://bodegalandtrust.org/news-events/ (annual dinner October 17, 2026; volunteer monitor training August 2026)"
+  },
+  {
+    "id": "botanica-nursery-and-gardens",
+    "name": "Botanica Nursery and Gardens",
+    "url": "https://botanicanurseryandgardens.com/",
+    "what": "Shade plant nursery and garden on Azalea Avenue, formerly Hidden Forest Nursery, that holds forest bathing, qigong, art classes and a gardeners exchange.",
+    "plugIn": "Join a forest bathing and qigong session, an art class in the garden, or the community gardeners exchange.",
+    "kind": "business",
+    "domains": [
+      "wellbeing",
+      "food-farms",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3970 Azalea Avenue, Sebastopol, CA 95472",
+    "eventsPage": "https://botanicanurseryandgardens.com/classes-and-events",
+    "instagram": "https://www.instagram.com/botanica_nursery/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/botanica/?ical=1"
+      }
+    ],
+    "evidence": "https://botanicanurseryandgardens.com/classes-and-events (Community Gardeners Exchange, Sept 26)",
+    "lat": 38.35846,
+    "lng": -122.78754
+  },
+  {
+    "id": "building-the-commons-committee",
+    "name": "Building the Commons Committee (Sebastopol Commons)",
+    "url": "https://www.cityofsebastopol.gov/boards-commissions-committees/sebastopol-commons/",
+    "what": "City-appointed committee planning The Commons, a proposed shared site in Sebastopol for civic, economic, cultural and social services.",
+    "plugIn": "Come to one of its community engagement meetings or oversight committee meetings and give input on what The Commons should hold.",
+    "kind": "government",
+    "domains": [
+      "civic",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://www.cityofsebastopol.gov/your-government/city-meeting-calendar/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/boards-commissions-committees/sebastopol-commons/ (community engagement meetings August 13 and September 10, 2026)"
+  },
+  {
+    "id": "california-native-plant-society-milo-baker-chapt",
+    "name": "California Native Plant Society, Milo Baker Chapter",
+    "url": "https://chapters.cnps.org/milobaker/",
+    "what": "Sonoma County chapter of the native plant society with plant walks, a fall plant sale, talks and weekly ice plant removal at Doran Beach.",
+    "plugIn": "Join the weekly Doran Beach weeding crew, a plant walk, or a talk.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://chapters.cnps.org/milobaker/events-and-activities/",
+    "instagram": "https://www.instagram.com/cnpsmilobaker/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://chapters.cnps.org/milobaker/wp-json/tribe/events/v1/events"
+      },
+      {
+        "format": "jsonld",
+        "url": "https://chapters.cnps.org/milobaker/events-and-activities/"
+      }
+    ],
+    "evidence": "https://chapters.cnps.org/milobaker/events-and-activities/"
+  },
+  {
+    "id": "ceres-community-project",
+    "name": "Ceres Community Project (Sebastopol Garden)",
+    "url": "https://www.ceresproject.org/",
+    "what": "Nonprofit where youth and adult volunteers grow and cook food for people facing illness; it keeps a garden at Sebastopol Independent Charter School.",
+    "plugIn": "Attend a volunteer orientation, then cook, garden or deliver meals.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "resilience",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1111 North Gravenstein Hwy, Sebastopol, CA 95472 (garden)",
+    "eventsPage": "https://www.ceresproject.org/volunteer/orientation-calendar",
+    "instagram": "https://www.instagram.com/cerescommunityproject/",
+    "feeds": [],
+    "evidence": "https://www.ceresproject.org/volunteer/orientation-calendar (orientation Nov 2); https://Harvest2026.auctria.events linked from the homepage",
+    "lat": 38.41284,
+    "lng": -122.84299
+  },
+  {
+    "id": "charles-m-schulz-museum",
+    "name": "Charles M. Schulz Museum",
+    "url": "https://schulzmuseum.org/",
+    "what": "Museum of the Peanuts cartoonist in Santa Rosa with exhibits, kids nights, homeschool days, toddler mornings and drawing classes.",
+    "plugIn": "Visit the museum or book a family program from the events calendar.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "neighbors",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "2301 Hardies Lane, Santa Rosa, CA 95403",
+    "eventsPage": "https://schulzmuseum.org/events/",
+    "instagram": "https://www.instagram.com/schulzmuseum/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://schulzmuseum.org/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://schulzmuseum.org/events/?ical=1",
+    "lat": 38.46004,
+    "lng": -122.73509
+  },
+  {
+    "id": "chimera-arts-and-makerspace",
+    "name": "Chimera Arts & Makerspace",
+    "url": "https://www.chimeraarts.org/",
+    "what": "Nonprofit makerspace across from The Barlow with wood, metal, electronics, laser and fiber shops, public classes and free First Friday open houses.",
+    "plugIn": "Come to the First Friday open house from 5 to 8pm, take a class, drop by for a tour from 11 to 4, or become a member.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6791 Sebastopol Ave, Suite 180, Sebastopol, CA 95472",
+    "eventsPage": "https://www.chimeraarts.org/allclasses",
+    "instagram": "https://www.instagram.com/chimeraartspace/",
+    "feeds": [
+      {
+        "format": "eventbrite",
+        "url": "https://www.eventbrite.com/o/chimera-arts-28496246113"
+      }
+    ],
+    "evidence": "https://www.eventbrite.com/e/woodshop-making-a-charcuterie-board-tickets-1373985671129 (class 2025-07-19); https://www.chimeraarts.org/repair-cafe (Repair Cafe March 15, 2025)",
+    "lat": 38.40249,
+    "lng": -122.82102
+  },
+  {
+    "id": "city-of-cotati",
+    "name": "City of Cotati",
+    "url": "https://www.cotaticity.gov/",
+    "what": "City government for Cotati with council, commission and board meetings listed on its calendar.",
+    "plugIn": "Attend a City Council or Planning Commission meeting.",
+    "kind": "government",
+    "domains": [
+      "civic"
+    ],
+    "area": "nearby",
+    "town": "Cotati",
+    "address": "201 West Sierra Avenue, Cotati, CA 94931",
+    "eventsPage": "https://www.cotaticity.gov/Calendar.aspx",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "civicplus",
+        "url": "https://www.cotaticity.gov/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
+      }
+    ],
+    "evidence": "https://www.cotaticity.gov/Calendar.aspx",
+    "lat": 38.32862,
+    "lng": -122.70544
+  },
+  {
+    "id": "city-of-rohnert-park",
+    "name": "City of Rohnert Park",
+    "url": "https://www.rpcity.ca.gov/",
+    "what": "City government that runs community events such as a holiday crafts faire and Veterans Day ceremony, plus council and commission meetings.",
+    "plugIn": "Go to a city event or attend a council or commission meeting.",
+    "kind": "government",
+    "domains": [
+      "civic",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "130 Avram Avenue, Rohnert Park, CA 94928",
+    "eventsPage": "https://www.rpcity.ca.gov/Calendar.aspx",
+    "instagram": "https://www.instagram.com/rohnertparkcity/",
+    "feeds": [
+      {
+        "format": "civicplus",
+        "url": "https://www.rpcity.ca.gov/common/modules/iCalendar/iCalendar.aspx?catID=29&feed=calendar"
+      },
+      {
+        "format": "civicplus",
+        "url": "https://www.rpcity.ca.gov/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
+      }
+    ],
+    "evidence": "https://www.rpcity.ca.gov/Calendar.aspx",
+    "lat": 38.34249,
+    "lng": -122.71042
+  },
+  {
+    "id": "city-of-santa-rosa",
+    "name": "City of Santa Rosa",
+    "url": "https://www.srcity.org/",
+    "what": "City government whose calendar lists creek cleanups, recreation and parks events, Courthouse Square events, council and board meetings.",
+    "plugIn": "Join a creek cleanup on the greenway, go to a Courthouse Square event, or attend a public meeting.",
+    "kind": "government",
+    "domains": [
+      "civic",
+      "land-water",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "100 Santa Rosa Avenue, Santa Rosa, CA 95404",
+    "eventsPage": "https://www.srcity.org/Calendar.aspx",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.srcity.org/Calendar.aspx",
+    "lat": 38.43822,
+    "lng": -122.71241
+  },
+  {
+    "id": "city-of-sebastopol",
+    "name": "City of Sebastopol (City Council)",
+    "url": "https://www.cityofsebastopol.gov/",
+    "what": "City government for Sebastopol, whose City Council and Planning Commission meet in public, most often at the Youth Annex on Morris Street.",
+    "plugIn": "Attend or watch a council or Planning Commission meeting, give public comment, or apply to serve on a city committee.",
+    "kind": "government",
+    "domains": [
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "425 Morris St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.cityofsebastopol.gov/your-government/city-meeting-calendar/",
+    "instagram": "https://www.instagram.com/cityofsebastopolca/",
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/events/city-council-meeting-november-3-2026/",
+    "lat": 38.40637,
+    "lng": -122.81982
+  },
+  {
+    "id": "community-church-of-sebastopol",
+    "name": "Community Church of Sebastopol (UCC)",
+    "url": "https://uccseb.org/",
+    "what": "Open and affirming United Church of Christ congregation that runs a Tuesday shower program, safe parking, Saturday lunches and the Inter-Church Food Pantry with partners.",
+    "plugIn": "Join Sunday worship at 10 am in person or on livestream, or volunteer with its lunch, shower or safe parking programs.",
+    "kind": "faith",
+    "domains": [
+      "neighbors",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1000 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": "https://uccseb.org/church-calendar/",
+    "instagram": "https://www.instagram.com/community_church_sebastopol/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.google.com/calendar/ical/uccseb.org_aj92kkir61rrlnk6lou87ega4s%40group.calendar.google.com/public/basic.ics",
+        "skip": "staff meeting|committee|council|team\\b|choir|handbell|nursery|office closed|shower program|calling night|training|ordination|pastor|confirmation class|leadership|wondering circle|meditation group -|kinship time|intercessory"
+      }
+    ],
+    "evidence": "https://uccseb.org/mission-outreach/ (Faith in Action Team formed January 2025; 2027 pledge campaign on home page)",
+    "lat": 38.38957,
+    "lng": -122.81562
+  },
+  {
+    "id": "community-market",
+    "name": "Community Market (Sebastopol)",
+    "url": "https://www.cmnaturalfoods.com/",
+    "what": "Natural and organic grocery at The Barlow, founded in 1975 and run as a democratic workplace, with a deli, a taproom and community events.",
+    "plugIn": "Join the Tuesday evening craft night, enter the Halloween chili cook-off, or shop on senior discount days.",
+    "kind": "market",
+    "domains": [
+      "food-farms",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6762 Sebastopol Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.cmnaturalfoods.com/events",
+    "instagram": "https://www.instagram.com/community_market/",
+    "feeds": [],
+    "evidence": "https://www.cmnaturalfoods.com/events (Halloween Chili Cook Off Friday Oct 30; screenings Nov 14 and Dec 12)",
+    "lat": 38.40276,
+    "lng": -122.82009
+  },
+  {
+    "id": "copperfield-s-books-sebastopol",
+    "name": "Copperfield's Books Sebastopol",
+    "url": "https://www.copperfieldsbooks.com/sebastopol",
+    "what": "Independent bookstore on North Main Street that hosts author meet and greets in the store and larger author talks around town.",
+    "plugIn": "Come to an author event in the store, RSVP for a ticketed talk, or join a book club.",
+    "kind": "business",
+    "domains": [
+      "art-culture",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "138 North Main Street, Sebastopol, CA 95472",
+    "eventsPage": "https://www.copperfieldsbooks.com/upcoming-events",
+    "instagram": "https://www.instagram.com/copperfieldsbooks/",
+    "feeds": [],
+    "evidence": "https://www.copperfieldsbooks.com/upcoming-events (Julia Moss meet and greet Oct 24, 2026; Lucy Foley at SCCC Nov 8, 2026; E.K. O'Connor Nov 21, 2026). The site blocks curl (403); read with WebFetch.",
+    "lat": 38.40261,
+    "lng": -122.82458
+  },
+  {
+    "id": "cotati-accordion-festival",
+    "name": "Cotati Accordion Festival",
+    "url": "https://cotatifest.com/",
+    "what": "Two-day accordion music festival in La Plaza Park each August, run by volunteers, next held August 21 and 22, 2027.",
+    "plugIn": "Buy a festival ticket or sign up for a volunteer shift.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Cotati",
+    "address": "La Plaza Park, Cotati, CA 94931",
+    "eventsPage": "https://cotatifest.com/schedule-2/",
+    "instagram": "https://www.instagram.com/cotatiaccordionfestival/",
+    "feeds": [],
+    "evidence": "https://cotatifest.com/schedule-2/ (2026 schedule, August 15 and 16)",
+    "lat": 38.3267,
+    "lng": -122.7068
+  },
+  {
+    "id": "crooked-goat-brewing",
+    "name": "Crooked Goat Brewing",
+    "url": "https://www.crookedgoatbrewing.com/",
+    "what": "Brewery and taproom on Morris Street with mostly free events such as weekly trivia, singles bingo and a monthly German speakers meetup.",
+    "plugIn": "Come to Tuesday trivia, a singles social bingo night, or the Stammtisch on the second Monday.",
+    "kind": "business",
+    "domains": [
+      "neighbors",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "120 Morris Street #120, Sebastopol, CA 95472",
+    "eventsPage": "https://www.crookedgoatbrewing.com/events",
+    "instagram": "https://www.instagram.com/crookedgoatbrewing/",
+    "feeds": [],
+    "evidence": "https://www.crookedgoatbrewing.com/events (singles social bingo Nov 12 and Dec 10, ticketed on Eventbrite)",
+    "lat": 38.40332,
+    "lng": -122.81926
+  },
+  {
+    "id": "dehlinger-winery",
+    "name": "Dehlinger Winery",
+    "url": "https://www.dehlingerwinery.com/",
+    "what": "Family winery on Vine Hill Road making estate pinot noir since 1975, with release tastings at the winery.",
+    "plugIn": "Reserve a tasting or come to a release tasting and pick-up day.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "4101 Vine Hill Road, Sebastopol, CA 95472",
+    "eventsPage": "https://www.dehlingerwinery.com/events",
+    "instagram": "https://www.instagram.com/dehlingerwinery/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.dehlingerwinery.com/events?format=json"
+      }
+    ],
+    "evidence": "https://www.dehlingerwinery.com/events?format=json",
+    "lat": 38.45057,
+    "lng": -122.86134
+  },
+  {
+    "id": "downtown-santa-rosa",
+    "name": "Downtown Santa Rosa",
+    "url": "https://www.downtownsantarosa.org/",
+    "what": "Downtown business district group that keeps a calendar of concerts, theater, art and food events at downtown businesses and public spaces.",
+    "plugIn": "Use the calendar to find downtown shows and signature events, or submit your own event.",
+    "kind": "civic",
+    "domains": [
+      "civic",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://www.downtownsantarosa.org/events/calendar",
+    "instagram": "https://www.instagram.com/downtownsantarosa/",
+    "feeds": [],
+    "evidence": "https://www.downtownsantarosa.org/events/calendar (October 2026 listings)"
+  },
+  {
+    "id": "dutton-goldfield-winery",
+    "name": "Dutton-Goldfield Winery",
+    "url": "https://duttongoldfield.com/",
+    "what": "Winery on Gravenstein Highway North with third Thursday happy hours, harvest celebrations and pick-up parties.",
+    "plugIn": "Come to a Third Thursdays happy hour or a seasonal party at the winery.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3100 Gravenstein Highway North, Sebastopol, CA 95472",
+    "eventsPage": "https://duttongoldfield.com/events",
+    "instagram": "https://www.instagram.com/duttongoldfieldwinery/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://duttongoldfield.com/events?format=json"
+      }
+    ],
+    "evidence": "https://duttongoldfield.com/events?format=json",
+    "lat": 38.43698,
+    "lng": -122.85773
+  },
+  {
+    "id": "earthseed-farm-and-retreat-center",
+    "name": "EarthSeed Farm and Retreat Center",
+    "url": "https://www.earthseedfarm.org/",
+    "what": "Fourteen-acre Afro-Indigenous permaculture farm and orchard on Sullivan Road with u-pick, educational programs, retreats and tours.",
+    "plugIn": "Come for u-pick from July to November, or sign up for a program, retreat or tour.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "land-water",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3175 Sullivan Rd, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.earthseedfarm.org/ (2025 annual report posted)",
+    "lat": 38.43697,
+    "lng": -122.88182
+  },
+  {
+    "id": "emeritus-vineyards",
+    "name": "Emeritus Vineyards",
+    "url": "https://www.emeritusvineyards.com/",
+    "what": "Pinot noir estate on Gravenstein Highway North with tastings, and a calendar of local events it joins, such as wine bingo at Region.",
+    "plugIn": "Book a tasting or come to one of its listed community events.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "2500 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": "https://www.emeritusvineyards.com/events/",
+    "instagram": "https://www.instagram.com/emerituswines/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://www.emeritusvineyards.com/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://www.emeritusvineyards.com/events/?ical=1",
+    "lat": 38.42924,
+    "lng": -122.85205
+  },
+  {
+    "id": "emmanuel-farmstead",
+    "name": "Emmanuel FarmStead",
+    "url": "https://www.farmtrails.org/venue/emmanuel-farmstead/",
+    "what": "Farm on Barlow Lane that holds Art Sundays on the farm every week, listed through Farm Trails.",
+    "plugIn": "Come to Art Sundays at the farm.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1406 Barlow Lane, Sebastopol, CA 95472",
+    "eventsPage": "https://www.farmtrails.org/venue/emmanuel-farmstead/",
+    "instagram": "https://www.instagram.com/emmanuelfarmstead/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/emmanuel-farmstead/?ical=1"
+      }
+    ],
+    "evidence": "https://www.farmtrails.org/venue/emmanuel-farmstead/ (20 events listed; Art Sundays held weekly since Jan 2025)",
+    "lat": 38.4164,
+    "lng": -122.85486
+  },
+  {
+    "id": "ethic-cider",
+    "name": "Ethic Cider",
+    "url": "https://ethicciders.com/",
+    "what": "Cider maker on Occidental Road using regenerative orchard practices, with cider salons, harvest celebrations and holiday pop-ups.",
+    "plugIn": "Come to a Thursday cider salon in summer, the fall harvest celebration, or the holiday shopping weekend.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "8490 Occidental Road, Sebastopol, CA 95472",
+    "eventsPage": "https://ethicciders.com/new-events",
+    "instagram": "https://www.instagram.com/ethicciders/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://ethicciders.com/new-events?format=json"
+      }
+    ],
+    "evidence": "https://ethicciders.com/new-events?format=json",
+    "lat": 38.42503,
+    "lng": -122.85731
+  },
+  {
+    "id": "final-passages",
+    "name": "Final Passages",
+    "url": "https://finalpassages.org/",
+    "what": "Sebastopol nonprofit that teaches home funeral and death midwifery skills and shares information on green burial and family-directed funerals.",
+    "plugIn": "Take an in-person training, order the home funeral guidebook, or sign up for the newsletter.",
+    "kind": "nonprofit",
+    "domains": [
+      "learning",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/finalpassages/",
+    "feeds": [],
+    "evidence": "https://finalpassages.org/ (2026 training listings)"
+  },
+  {
+    "id": "fire-safe-sonoma",
+    "name": "Fire Safe Sonoma",
+    "url": "https://www.firesafesonoma.org/",
+    "what": "County fire safe council with a speaker series and preparedness fairs that also helps neighborhoods form Firewise groups.",
+    "plugIn": "Attend a speaker series talk or preparedness fair, or start a Firewise group on your road.",
+    "kind": "nonprofit",
+    "domains": [
+      "resilience",
+      "land-water"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://www.firesafesonoma.org/public-calendar/",
+    "instagram": "https://www.instagram.com/firesafesonoma/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.google.com/calendar/ical/su1g9is1isch5r887cdc5tkfg0%40group.calendar.google.com/public/basic.ics"
+      }
+    ],
+    "evidence": "https://www.firesafesonoma.org/public-calendar/"
+  },
+  {
+    "id": "forestville-chamber-of-commerce",
+    "name": "Forestville Chamber of Commerce",
+    "url": "https://www.forestvillechamber.org/",
+    "what": "Business and community group for Forestville that runs the town calendar and the Forestville farmers market page.",
+    "plugIn": "Check the town calendar for local meetings, senior lunches and markets.",
+    "kind": "civic",
+    "domains": [
+      "civic",
+      "neighbors",
+      "food-farms"
+    ],
+    "area": "nearby",
+    "town": "Forestville",
+    "address": null,
+    "eventsPage": "https://www.forestvillechamber.org/calendar/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "jsonld",
+        "url": "https://www.forestvillechamber.org/calendar/"
+      }
+    ],
+    "evidence": "https://www.forestvillechamber.org/calendar/ (October 2026 events)"
+  },
+  {
+    "id": "friends-of-the-sebastopol-library",
+    "name": "Friends of the Sebastopol Library",
+    "url": "https://sonomalibrary.org/visit/locations/sebastopol/friends",
+    "what": "Volunteer group that sorts donated books and runs year-round book sales to fund books, equipment and furnishings for the Sebastopol library.",
+    "plugIn": "Shop a book sale, drop off book donations Thursday mornings 9 to 11 am, or join and volunteer to sort and staff sales.",
+    "kind": "nonprofit",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7140 Bodega Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://events.sonomalibrary.org/events",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://events.sonomalibrary.org/events/week/2026/09/14 (Friends of Sebastopol Library Book Sale, Sept 2026)",
+    "lat": 38.40181,
+    "lng": -122.82517
+  },
+  {
+    "id": "fusion-teen-center",
+    "name": "Fusion Teen Center",
+    "url": "https://www.sebchristian.com/fusion-teen-center",
+    "what": "Free, non-religious after-school drop-in for grades 6 to 12 with pool, ping pong, games and snacks, hosted by Sebastopol Christian Church.",
+    "plugIn": "Teens can drop in Monday to Thursday, 3 to 5:30 pm on school days, on the church's lower floor by the parking lot.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7433 Bodega Ave, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.sebchristian.com/fusion-teen-center",
+    "lat": 38.4001,
+    "lng": -122.82802
+  },
+  {
+    "id": "gather-sebastopol",
+    "name": "Gather Sebastopol",
+    "url": "https://gathersebastopol.com/",
+    "what": "Shop on North Main Street selling garden, preserving and fiber tools, with hands-on workshops in cheesemaking, fermenting, knitting and broom making.",
+    "plugIn": "Sign up for a workshop such as fire cider, cheesemaking or beginning knitting.",
+    "kind": "business",
+    "domains": [
+      "food-farms",
+      "learning",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "122 N Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://gathersebastopol.com/collections/workshops",
+    "instagram": "https://www.instagram.com/gather_sebastopol/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/gather-sebastopol/?ical=1"
+      }
+    ],
+    "evidence": "https://gathersebastopol.com/products/fire-cider-herbal-vinegars ; https://www.farmtrails.org/venue/gather-sebastopol/?ical=1",
+    "lat": 38.40241,
+    "lng": -122.82445
+  },
+  {
+    "id": "goatlandia-farm-animal-sanctuary",
+    "name": "Goatlandia Farm Animal Sanctuary",
+    "url": "https://www.goatlandia.org/",
+    "what": "Farm animal sanctuary on Cunningham Road offering bottle feeding mornings, group tours, kids and adult camps, and fundraising festivals.",
+    "plugIn": "Book a Bottle Babies Breakfast Club visit or group tour, volunteer, foster, or come to a fundraiser.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "neighbors",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1567 Cunningham Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.goatlandia.org/events",
+    "instagram": "https://www.instagram.com/goatlandia_sanctuary/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.goatlandia.org/events?format=json"
+      }
+    ],
+    "evidence": "https://www.goatlandia.org/events?format=json (Kids Camp 2026, Adult Summer Camp July 2026, Fall Farm Trails Sept 2026)",
+    "lat": 38.35996,
+    "lng": -122.80521
+  },
+  {
+    "id": "gold-ridge-fire-protection-district",
+    "name": "Gold Ridge Fire Protection District",
+    "url": "https://www.goldridgefire.org/",
+    "what": "Fire district for about 300 square miles of west Sonoma County, headquartered on Hessel Road, with public board meetings and burn permits.",
+    "plugIn": "Attend a board meeting at the Annex on Bodega Avenue, come to the free pancake breakfast, or sign up for SoCo Alert.",
+    "kind": "government",
+    "domains": [
+      "resilience",
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "4500 Hessel Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.goldridgefire.org/calendar",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.goldridgefire.org/ (2025 Annual Report, Oct 14 2026 board meeting)",
+    "lat": 38.35116,
+    "lng": -122.77839
+  },
+  {
+    "id": "gold-ridge-organic-farms",
+    "name": "Gold Ridge Organic Farms",
+    "url": "https://goldridgeorganicfarms.com/",
+    "what": "Organic olive, apple and citrus farm on Canfield Road with a farm shop, custom olive milling, tastings and cooking classes.",
+    "plugIn": "Visit the farm shop on Fridays or Saturdays, or book a class or the olio nuovo harvest and milling day.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3387 Canfield Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://goldridgeorganicfarms.com/pages/upcoming-events",
+    "instagram": "https://www.instagram.com/goldridgeorganicfarms/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/gold-ridge-organic-farm/?ical=1"
+      }
+    ],
+    "evidence": "https://www.farmtrails.org/venue/gold-ridge-organic-farm/?ical=1",
+    "lat": 38.34397,
+    "lng": -122.80637
+  },
+  {
+    "id": "gold-ridge-resource-conservation-district",
+    "name": "Gold Ridge Resource Conservation District",
+    "url": "https://goldridgercd.org/",
+    "what": "Special district on Sullivan Road that helps landowners care for soil, water and wildlife, with public board meetings and conservation projects.",
+    "plugIn": "Request services or a site visit for your land, or attend a monthly board meeting at 3:30 pm.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "2776 Sullivan Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://goldridgercd.org/events",
+    "instagram": "https://www.instagram.com/goldridgercd/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://goldridgercd.org/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://goldridgercd.org/events/?ical=1",
+    "lat": 38.43128,
+    "lng": -122.88195
+  },
+  {
+    "id": "grace-yoga",
+    "name": "Grace Yoga",
+    "url": "https://www.graceyoga.studio/",
+    "what": "Yoga studio at The Barlow offering drop-in classes, class packs, memberships and occasional mini-retreats.",
+    "plugIn": "Book a drop-in class through Mindbody or sign up for a mini-retreat.",
+    "kind": "business",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6790 McKinley St, #180, Sebastopol, CA 95472",
+    "eventsPage": "https://www.graceyoga.studio/events",
+    "instagram": "https://www.instagram.com/graceyoga.studio/",
+    "feeds": [],
+    "evidence": "https://www.graceyoga.studio/?format=json (homepage updatedOn 2025-12-01)",
+    "lat": 38.4038,
+    "lng": -122.82163
+  },
+  {
+    "id": "graton-community-club",
+    "name": "Graton Community Club",
+    "url": "https://gratoncommunityclub.org/",
+    "what": "Clubhouse in Graton that holds spring and fall flower shows, a bluegrass jam, a quilting group and serves as a county vote center.",
+    "plugIn": "Go to a flower show, bring an instrument to the Friday bluegrass jam, or join the club.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "art-culture",
+      "food-farms"
+    ],
+    "area": "nearby",
+    "town": "Graton",
+    "address": "8996 Graton Road, Graton, CA 95444",
+    "eventsPage": "https://gratoncommunityclub.org/events-calendar/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://gratoncommunityclub.org/events-calendar/ (2026 calendar of events)",
+    "lat": 38.43643,
+    "lng": -122.86842
+  },
+  {
+    "id": "gravenstein-apple-fair",
+    "name": "Gravenstein Apple Fair",
+    "url": "https://gravensteinapplefair.com/",
+    "what": "Two-day August fair at Ragle Ranch Park with apple food, local music, farm demonstrations, ag games and craft cider, run by Farm Trails.",
+    "plugIn": "Buy a ticket, enter the pie contest, or volunteer a shift; the next fair is August 7 and 8, 2027.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "Ragle Ranch Regional Park, 500 Ragle Road, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/gravensteinapplefair/",
+    "feeds": [],
+    "evidence": "https://gravensteinapplefair.com/ (2026 fair held, 2026 pie contest winners, 2027 dates posted)",
+    "lat": 38.4051,
+    "lng": -122.8458
+  },
+  {
+    "id": "gravenstein-health-action-coalition",
+    "name": "Gravenstein Health Action Coalition",
+    "url": "https://gravensteinhealth.org/",
+    "what": "Coalition working on health and safety in Sebastopol, Graton, Occidental and Bodega, running Meet Your Neighbors West County and youth and family programs.",
+    "plugIn": "Volunteer, start a Meet Your Neighbors group on your street, or attend a coalition meeting listed on its calendar.",
+    "kind": "nonprofit",
+    "domains": [
+      "wellbeing",
+      "resilience",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://gravensteinhealth.org/calendar-of-events",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://gravensteinhealth.org/calendar-of-events?format=json"
+      }
+    ],
+    "evidence": "https://gravensteinhealth.org/calendar-of-events?format=json (meetings Oct 20 to Oct 28 2026)"
+  },
+  {
+    "id": "gravenstein-union-school-district",
+    "name": "Gravenstein Union School District",
+    "url": "https://www.gusdschools.org/",
+    "what": "Public district for Gravenstein Elementary on Twig Avenue and Hillcrest Middle School on Bloomfield Road, with a parent association and after-school care.",
+    "plugIn": "Attend a board or site council meeting, join the Gravenstein Parent Association, or come to its family events.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3840 Twig Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.gusdschools.org/calendar",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.gusdschools.org/calendar/feed/ical.ics"
+      }
+    ],
+    "evidence": "https://www.gusdschools.org/calendar/feed/ical.ics (GUSD Board Meeting Oct 21 2026)",
+    "lat": 38.3615,
+    "lng": -122.78469
+  },
+  {
+    "id": "green-music-center",
+    "name": "Green Music Center",
+    "url": "https://gmc.sonoma.edu/",
+    "what": "Concert halls at Sonoma State University in Rohnert Park, home of the Santa Rosa Symphony, with touring artists and a summer series.",
+    "plugIn": "Buy a ticket from the events list, or volunteer as an usher.",
+    "kind": "venue",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "1801 East Cotati Avenue, Rohnert Park, CA 94928",
+    "eventsPage": "https://gmc.sonoma.edu/all-events/",
+    "instagram": "https://www.instagram.com/greenmusiccenter/",
+    "feeds": [],
+    "evidence": "https://gmc.sonoma.edu/all-events/ (2026 to 2027 season, shows from October 24, 2026)",
+    "lat": 38.33781,
+    "lng": -122.67814
+  },
+  {
+    "id": "green-valley-farm-mill",
+    "name": "Green Valley Farm + Mill",
+    "url": "https://gvfam.com/",
+    "what": "Farm and old mill site on Green Valley Road that hosts workshops, farm tours, climate farm school sessions and benefit shows.",
+    "plugIn": "Sign up for the Farm + Mill newsletter and check the events page for workshops, tours and shows on the land.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "land-water",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "13024 Green Valley Road, Sebastopol, CA 95472",
+    "eventsPage": "https://gvfam.com/events",
+    "instagram": "https://www.instagram.com/gvfam/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://gvfam.com/events?format=json"
+      }
+    ],
+    "evidence": "https://gvfam.com/events?format=json (Reaping What She Sows 2026-03-21; Benefit Show for Green Valley 2025-12-06)",
+    "lat": 38.45453,
+    "lng": -122.93032
+  },
+  {
+    "id": "harmony-farm-supply-and-nursery",
+    "name": "Harmony Farm Supply & Nursery",
+    "url": "https://harmonyfarm.com/",
+    "what": "Organic farm and garden supply store and nursery on Gravenstein Highway North that teaches free classes on soil, irrigation and pest control.",
+    "plugIn": "Call to register for a free Saturday class, or come to the yearly Alexander von Humboldt Day.",
+    "kind": "business",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "3244 Gravenstein Hwy North, Sebastopol, CA 95472",
+    "eventsPage": "https://harmonyfarm.com/calendar-of-classes-and-events/",
+    "instagram": "https://www.instagram.com/harmonyfarmsupply/",
+    "feeds": [],
+    "evidence": "https://harmonyfarm.com/calendar-of-classes-and-events/ (Alexander von Humboldt Day Sept 12, 2026; Soil Health class Aug 15, 2026)",
+    "lat": 38.43871,
+    "lng": -122.85881
+  },
+  {
+    "id": "head-west-marketplace-at-the-barlow",
+    "name": "Head West Marketplace at The Barlow",
+    "url": "https://www.headwestmarketplace.com/thebarlow",
+    "what": "Monthly outdoor market of local makers, designers and artists at The Barlow on the third Sunday, 11am to 4pm.",
+    "plugIn": "Shop the market on the third Sunday of the month, or apply to sell.",
+    "kind": "market",
+    "domains": [
+      "art-culture",
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6770 McKinley St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.headwestmarketplace.com/thebarlow",
+    "instagram": "https://www.instagram.com/headwestmarketplace/",
+    "feeds": [],
+    "evidence": "https://www.headwestmarketplace.com/thebarlow (2026 dates March 15 to December 20; next Sunday November 15)",
+    "lat": 38.4042,
+    "lng": -122.8208
+  },
+  {
+    "id": "hessel-church",
+    "name": "Hessel Church",
+    "url": "https://www.hessel.org/",
+    "what": "Christian church on Hessel Avenue with two Sunday services, growth groups and ministries for children, youth, young adults, seniors and Lao and Thai speakers.",
+    "plugIn": "Attend a Sunday service at 8 or 10 am, join a growth group, or come to a seasonal event such as Christmas at Hessel.",
+    "kind": "faith",
+    "domains": [
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "5060 Hessel Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.hessel.org/events",
+    "instagram": "https://www.instagram.com/hessel_church/",
+    "feeds": [],
+    "evidence": "https://www.hessel.org/ (2026 site with current service times)",
+    "lat": 38.34783,
+    "lng": -122.77863
+  },
+  {
+    "id": "hopmonk-tavern-sebastopol",
+    "name": "HopMonk Tavern Sebastopol",
+    "url": "https://www.hopmonk.com/sebastopol",
+    "what": "Tavern on Petaluma Avenue with a music room, The Abbey, that books touring and local bands.",
+    "plugIn": "Buy a ticket for a show, or come on Wednesday evenings for the $5 Peacetown local music night.",
+    "kind": "venue",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "230 Petaluma Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.hopmonk.com/livemusic",
+    "instagram": "https://www.instagram.com/hopmonksebastopol/",
+    "feeds": [],
+    "evidence": "https://www.peacetown.org/peacetown-continues (weekly shows at Hopmonk/The Abbey through Nov 2026); https://www.hopmonk.com/livemusic (2026 Cookout Concert menu)",
+    "lat": 38.40157,
+    "lng": -122.82269
+  },
+  {
+    "id": "indivisible-sonoma-county",
+    "name": "Indivisible Sonoma County",
+    "url": "https://indivisiblesoco.org/",
+    "what": "Volunteer civic action group that lists rallies, voter drives, call sessions and meetings across the county on a shared calendar.",
+    "plugIn": "Check the calendar for a rally, phone bank or voter outreach shift and show up.",
+    "kind": "informal",
+    "domains": [
+      "civic"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://indivisiblesoco.org/calendar/",
+    "instagram": "https://www.instagram.com/indivisible_sonoma_county/",
+    "feeds": [],
+    "evidence": "https://indivisiblesoco.org/ (October 17, 2026 early voting events in Santa Rosa)"
+  },
+  {
+    "id": "iron-horse-vineyards",
+    "name": "Iron Horse Vineyards",
+    "url": "https://ironhorsevineyards.com/",
+    "what": "Sparkling wine estate on Ross Station Road in Green Valley with outdoor tastings and a 50th anniversary events calendar.",
+    "plugIn": "Book an outdoor tasting or buy a ticket for an event such as Oyster Sunday.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "9786 Ross Station Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://ironhorsevineyards.com/events/",
+    "instagram": "https://www.instagram.com/ironhorsevyds/",
+    "feeds": [],
+    "evidence": "https://ironhorsevineyards.com/events/ (Oyster Sunday, November 15, 2026)",
+    "lat": 38.45537,
+    "lng": -122.89392
+  },
+  {
+    "id": "ives-park",
+    "name": "Ives Park",
+    "url": "https://www.cityofsebastopol.gov/our-community/parks-trails-open-space/",
+    "what": "The town's oldest park, on Willow Street, with a pool, ball field, playground, outdoor stage and part of Calder Creek.",
+    "plugIn": "Come to the Peacetown Wednesday concerts in summer, the Apple Blossom Festival, or reserve a picnic area through the city.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "neighbors",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7400 Willow Street, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/cityofsebastopolca/",
+    "feeds": [],
+    "evidence": "https://www.peacetown.org/summer-series-2026?format=json (Ives Park concerts June to Sept 2026)",
+    "lat": 38.4,
+    "lng": -122.8265
+  },
+  {
+    "id": "ives-pool",
+    "name": "Ives Pool (Western Sonoma County Swimmers)",
+    "url": "https://www.ivespool.org/",
+    "what": "Community pool in Ives Park run by Western Sonoma County Swimmers, offering lap swim, public swim, lessons, aqua aerobics, masters and water polo.",
+    "plugIn": "Pay for a public or lap swim, sign a child up for lessons, or join aqua aerobics or the masters group.",
+    "kind": "nonprofit",
+    "domains": [
+      "wellbeing",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7400 Willow St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.ivespool.org/schedule",
+    "instagram": "https://www.instagram.com/ivespool/",
+    "feeds": [],
+    "evidence": "https://www.ivespool.org/ (pool closed for a swim meet Sat Oct 24 and Sun Oct 25, i.e. 2026)",
+    "lat": 38.39942,
+    "lng": -122.82596
+  },
+  {
+    "id": "kiwanis-club-of-sebastopol",
+    "name": "Kiwanis Club of Sebastopol",
+    "url": "https://www.sebastopolkiwanisclub.org/",
+    "what": "Service club focused on youth that runs the Easter egg hunt at Ives Park, the July 3 fireworks at Analy, Halloween Fest and scholarships.",
+    "plugIn": "Come to a Friday lunch meeting with a guest speaker, 12:15 pm in the Green Room at the Community Cultural Center, or volunteer at an event.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "390 Morris St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebastopolkiwanisclub.org/sebastopol-kiwanis-calendar",
+    "instagram": "https://www.instagram.com/kiwanisclubsebastopol/",
+    "feeds": [],
+    "evidence": "https://www.sebastopolkiwanisclub.org/ (Easter Egg Hunt 2026, July 3rd Fireworks 2026, Turkey Trot 2026); https://sebastopolcalendar.com/event/sebastopol-turkey-trot/",
+    "lat": 38.40843,
+    "lng": -122.81997
+  },
+  {
+    "id": "kriya-yoga-sebastopol-group-meditation",
+    "name": "Kriya Yoga Sebastopol group meditation",
+    "url": "https://kriya.org/location-details/28/en",
+    "what": "Local Kriya Yoga group that holds group meditation every Saturday at 10am on North Main Street.",
+    "plugIn": "Come to Saturday group meditation at 10am.",
+    "kind": "faith",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "500 North Main Street, Sebastopol, CA 95472",
+    "eventsPage": "https://kriya.org/location-details/28/en",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://kriya.org/location-details/28/en (Saturdays from May 2, 2026 onward)",
+    "lat": 38.40577,
+    "lng": -122.82659
+  },
+  {
+    "id": "la-fayette-lodge-no-126",
+    "name": "La Fayette Lodge No. 126 (Sebastopol Masons)",
+    "url": "https://www.sebastopolmasons.org/",
+    "what": "Masonic lodge for men, chartered in 1858, that meets monthly in its hall on North Main Street and does charity work in town.",
+    "plugIn": "Men can ask about joining at a monthly stated meeting; the lodge hall can also be rented for events.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "373 N Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebastopolmasons.org/#events",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.google.com/calendar/ical/clanh4fet2et0h1m94i7fsmk98%40group.calendar.google.com/public/basic.ics"
+      }
+    ],
+    "evidence": "https://www.sebastopolmasons.org/ (stated meetings listed Nov 9 2026 to Feb 2027)",
+    "lat": 38.40464,
+    "lng": -122.8257
+  },
+  {
+    "id": "laguna-de-santa-rosa-foundation",
+    "name": "Laguna de Santa Rosa Foundation",
+    "url": "http://www.lagunadesantarosa.org/",
+    "what": "Nonprofit that restores the Laguna de Santa Rosa and leads bird walks, talks, classes and volunteer days, some on the Laguna Trail in Sebastopol.",
+    "plugIn": "Register on Eventbrite for a guided walk or class, or join a stewardship, nursery or native plant garden volunteer day.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Sebastopol",
+    "address": "900 Sanford Road, Santa Rosa, CA 95401",
+    "eventsPage": "http://www.lagunadesantarosa.org/laguna_walks_classes.html",
+    "instagram": "https://www.instagram.com/laguna_foundation/",
+    "feeds": [
+      {
+        "format": "eventbrite",
+        "url": "https://www.eventbrite.com/o/laguna-de-santa-rosa-foundation-14522137323"
+      }
+    ],
+    "evidence": "https://www.eventbrite.com/e/fall-birding-at-laguna-de-santa-rosa-trail-tickets-1997778373895 ; http://www.lagunadesantarosa.org/ (exhibit on display through December 18, 2026)",
+    "lat": 38.43051,
+    "lng": -122.8251
+  },
+  {
+    "id": "landpaths",
+    "name": "LandPaths",
+    "url": "https://www.landpaths.org/",
+    "what": "Santa Rosa land nonprofit running outings, stewardship days and docent programs on preserves including Bohemia and the Grove of Old Trees near Occidental.",
+    "plugIn": "Sign up for an outing or stewardship day on the event calendar.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "618 4th Street, Suite 217, Santa Rosa, CA 95404",
+    "eventsPage": "https://landpaths.app.neoncrm.com/nx/portal/event-calendar",
+    "instagram": "https://www.instagram.com/landpaths/",
+    "feeds": [],
+    "evidence": "https://www.landpaths.org/ (2026 outings listed, Ocean Song prescribed burn walk)",
+    "lat": 38.44056,
+    "lng": -122.71362
+  },
+  {
+    "id": "luther-burbank-center-for-the-arts",
+    "name": "Luther Burbank Center for the Arts",
+    "url": "https://lutherburbankcenter.org/",
+    "what": "Large performing arts venue in north Santa Rosa with touring concerts, comedy, family shows and dance.",
+    "plugIn": "Buy a ticket to a show. The family series is priced for kids.",
+    "kind": "venue",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Larkfield-Wikiup",
+    "address": "50 Mark West Springs Road, Santa Rosa, CA 95403",
+    "eventsPage": "https://lutherburbankcenter.org/events/",
+    "instagram": "https://www.instagram.com/lutherburbankcenter/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://lutherburbankcenter.org/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://lutherburbankcenter.org/events/?ical=1",
+    "lat": 38.49641,
+    "lng": -122.75028
+  },
+  {
+    "id": "luther-burbank-home-and-gardens",
+    "name": "Luther Burbank Home & Gardens",
+    "url": "https://lutherburbank.org/",
+    "what": "Historic home and gardens of the plant breeder in downtown Santa Rosa, with docent tours, a spring plant sale and a holiday open house.",
+    "plugIn": "Walk the free gardens, take a docent tour, or go to the plant sale or holiday open house.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "learning",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "Santa Rosa Avenue and Sonoma Avenue, Santa Rosa, CA 95404",
+    "eventsPage": "https://lutherburbank.org/special-events/holiday-open-house/",
+    "instagram": "https://www.instagram.com/burbankgardens/",
+    "feeds": [],
+    "evidence": "https://lutherburbank.org/special-events/holiday-open-house/ (December 5 and 6, 2026); https://lutherburbank.org/special-events/may-day-plant-sale/ (April 18, 2026)",
+    "lat": 38.43588,
+    "lng": -122.71171
+  },
+  {
+    "id": "madrone-audubon-society",
+    "name": "Madrone Audubon Society",
+    "url": "https://www.madroneaudubon.org/",
+    "what": "Audubon group based in Santa Rosa with free bird walks, field trips and monthly evening talks.",
+    "plugIn": "Join a bird walk or come to a monthly program. Both are free and open to the public.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "1551 Montgomery Drive, Santa Rosa, CA 95405",
+    "eventsPage": "https://www.madroneaudubon.org/calendar",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.madroneaudubon.org/calendar?format=json"
+      }
+    ],
+    "evidence": "https://www.madroneaudubon.org/calendar",
+    "lat": 38.44437,
+    "lng": -122.69614
+  },
+  {
+    "id": "many-rivers-books-and-tea",
+    "name": "Many Rivers Books & Tea",
+    "url": "https://www.manyriversbooks.com/",
+    "what": "Bookstore and tea shop on South Main Street focused on spiritual practice, now run by the Many Rivers Foundation, with Thursday evening talks.",
+    "plugIn": "Come to a Thursday evening talk, shop for books and tea, or donate to the foundation that keeps the store open.",
+    "kind": "nonprofit",
+    "domains": [
+      "learning",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "130 S. Main Street, Suite 101, Sebastopol, CA 95472",
+    "eventsPage": "https://www.manyriversbooks.com/events_thursdays.html",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.manyriversbooks.com/ (March 2026 update); https://www.manyriversbooks.com/events_thursdays.html (talks Sept 24 and Oct 1, 2026)",
+    "lat": 38.40186,
+    "lng": -122.82413
+  },
+  {
+    "id": "marimar-estate",
+    "name": "Marimar Estate",
+    "url": "https://www.marimarestate.com/",
+    "what": "Winery on Graton Road with a tasting room and ticketed food and wine events such as library tastings and a holiday paella lunch.",
+    "plugIn": "Reserve a tasting or buy a ticket for a seasonal winery event.",
+    "kind": "business",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "11400 Graton Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.marimarestate.com/events/",
+    "instagram": "https://www.instagram.com/marimarestate/",
+    "feeds": [],
+    "evidence": "https://www.marimarestate.com/events/ (Vertical Library Tasting Nov 14, 2026; Holiday Paella Dec 5, 2026)",
+    "lat": 38.42058,
+    "lng": -122.89839
+  },
+  {
+    "id": "monte-rio-recreation-and-park-district",
+    "name": "Monte Rio Recreation & Park District",
+    "url": "https://www.mrrpd.org/",
+    "what": "Park district for Monte Rio that runs the community center and beach, with game nights, sound healing, food distribution and public meetings.",
+    "plugIn": "Come to a game night or community center event, or pick up food at the monthly distribution.",
+    "kind": "government",
+    "domains": [
+      "neighbors",
+      "land-water",
+      "resilience"
+    ],
+    "area": "nearby",
+    "town": "Monte Rio",
+    "address": "20488 Highway 116, Monte Rio, CA 95462",
+    "eventsPage": "https://www.mrrpd.org/events/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.mrrpd.org/events/ (events through November 2026)",
+    "lat": 38.46821,
+    "lng": -123.01166
+  },
+  {
+    "id": "mt-gilead-bible-camp-and-conference-center",
+    "name": "Mt. Gilead Bible Camp and Conference Center",
+    "url": "https://mtgilead.org/",
+    "what": "Christian camp in the redwoods on Green Valley Road with summer camps, retreats, a Harvest Festival and other events open to the public.",
+    "plugIn": "Bring the family to the Harvest Festival or Sunrise Service, send kids to summer camp, or rent meeting space.",
+    "kind": "faith",
+    "domains": [
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "13485 Green Valley Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://mtgilead.org/events/",
+    "instagram": "https://www.instagram.com/mtgilead/",
+    "feeds": [],
+    "evidence": "https://mtgilead.org/events/ (Harvest Festival Sept 13 2026, line dancing night Sept 27 2026)",
+    "lat": 38.46241,
+    "lng": -122.93804
+  },
+  {
+    "id": "museum-of-sonoma-county",
+    "name": "Museum of Sonoma County",
+    "url": "https://museumsc.org/",
+    "what": "Art and history museum in downtown Santa Rosa with exhibitions and a free family day on the second Saturday of each month.",
+    "plugIn": "Visit the galleries or bring kids to Second Saturday free family day.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "425 Seventh Street, Santa Rosa, CA 95401",
+    "eventsPage": "https://museumsc.org/events/",
+    "instagram": "https://www.instagram.com/museumsc/",
+    "feeds": [],
+    "evidence": "https://museumsc.org/events/ (Second Saturday family days November 14 and December 12, 2026)",
+    "lat": 38.44157,
+    "lng": -122.71888
+  },
+  {
+    "id": "occidental-arts-and-ecology-center",
+    "name": "Occidental Arts & Ecology Center (OAEC)",
+    "url": "https://oaec.org/",
+    "what": "Nonprofit farm and teaching center in Occidental with a seed garden, courses on permaculture and land care, and weekly garden volunteer days.",
+    "plugIn": "Sign up for a Wednesday garden volunteer day or a course on the events page.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "learning",
+      "land-water"
+    ],
+    "area": "nearby",
+    "town": "Occidental",
+    "address": "15290 Coleman Valley Road, Occidental, CA 95465",
+    "eventsPage": "https://oaec.org/events/",
+    "instagram": "https://www.instagram.com/the_oaec/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://oaec.org/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://oaec.org/events/",
+    "lat": 38.41133,
+    "lng": -122.95671
+  },
+  {
+    "id": "occidental-center-for-the-arts",
+    "name": "Occidental Center for the Arts",
+    "url": "https://www.occidentalcenterforthearts.org/",
+    "what": "Arts center in Occidental with concerts, readers theatre, figure drawing, jam nights, sound baths, gallery shows and kids events.",
+    "plugIn": "Buy a ticket to a show, drop in to a jam night or figure drawing, or volunteer at events.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Occidental",
+    "address": "3850 Doris Murphy Court, Occidental, CA 95465",
+    "eventsPage": "https://www.occidentalcenterforthearts.org/upcoming-events",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.occidentalcenterforthearts.org/upcoming-events?format=json"
+      }
+    ],
+    "evidence": "https://www.occidentalcenterforthearts.org/upcoming-events",
+    "lat": 38.41044,
+    "lng": -122.95014
+  },
+  {
+    "id": "occidental-laguna-sangha",
+    "name": "Occidental Laguna Sangha",
+    "url": "https://occidentallagunasangha.org/",
+    "what": "Zen Buddhist group open to beginners that meets at the Community Center Teen Annex, with study groups and a meal service for unhoused people.",
+    "plugIn": "Show up Sunday at 9 am for meditation, walking meditation and a dharma talk until 10:30, in person or on Zoom; given by donation.",
+    "kind": "faith",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "425 Morris St, Sebastopol, CA 95472",
+    "eventsPage": "https://occidentallagunasangha.org/yearly-calendar/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://occidentallagunasangha.org/ (ethics statement and banner uploaded 2025/03); https://occidentallagunasangha.org/yearly-calendar/",
+    "lat": 38.40637,
+    "lng": -122.81982
+  },
+  {
+    "id": "osmosis-day-spa-sanctuary",
+    "name": "Osmosis Day Spa Sanctuary",
+    "url": "https://osmosis.com/",
+    "what": "Day spa in Freestone with cedar enzyme baths, massage and gardens that open for guided tours and seasonal evening events.",
+    "plugIn": "Book a guided garden tour or a seasonal event such as the December Festival of Light.",
+    "kind": "business",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "209 Bohemian Hwy, Freestone, CA 95472",
+    "eventsPage": "https://osmosis.com/events/",
+    "instagram": "https://www.instagram.com/osmosisdayspa/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://osmosis.com/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://osmosis.com/event/festival-of-light-osmosis-under-the-stars/",
+    "lat": 38.37266,
+    "lng": -122.91394
+  },
+  {
+    "id": "pax-wines",
+    "name": "Pax Wines",
+    "url": "https://www.paxwine.com/",
+    "what": "Winery tasting room at The Barlow with free live music every Friday evening and occasional pop-ups and winemaker dinners.",
+    "plugIn": "Drop in for Friday live music from 5 to 7pm; there is no door fee.",
+    "kind": "business",
+    "domains": [
+      "art-culture",
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6780 McKinley St, Suite 170, Sebastopol, CA 95472",
+    "eventsPage": "https://www.paxwine.com/upcoming-events",
+    "instagram": "https://www.instagram.com/paxwines/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.paxwine.com/upcoming-events?format=json"
+      },
+      {
+        "format": "ics",
+        "url": "https://www.farmtrails.org/venue/pax-wines/?ical=1"
+      }
+    ],
+    "evidence": "https://www.paxwine.com/upcoming-events?format=json",
+    "lat": 38.40384,
+    "lng": -122.82133
+  },
+  {
+    "id": "peacetown",
+    "name": "Peacetown",
+    "url": "https://www.peacetown.org/",
+    "what": "Volunteer group that puts on free Wednesday summer concerts in Ives Park and a $5 Wednesday music night at HopMonk the rest of the year.",
+    "plugIn": "Bring a chair to Ives Park on summer Wednesdays, catch a Wednesday show at HopMonk, or volunteer or sponsor.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://www.peacetown.org/shows",
+    "instagram": "https://www.instagram.com/peacetownsebastopol/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.peacetown.org/peacetown-continues?format=json"
+      },
+      {
+        "format": "squarespace",
+        "url": "https://www.peacetown.org/summer-series-2026?format=json"
+      }
+    ],
+    "evidence": "https://www.peacetown.org/summer-series-2026/2026/9/9/eric-lindell ; https://www.peacetown.org/peacetown-continues/2026/10/28/the-musers"
+  },
+  {
+    "id": "ragle-ranch-regional-park",
+    "name": "Ragle Ranch Regional Park",
+    "url": "https://parks.sonomacounty.gov/visit/find-a-park/ragle-ranch-regional-park",
+    "what": "County park on Ragle Road with trails, sports fields, a dog park, picnic sites and the grounds of the Gravenstein Apple Fair.",
+    "plugIn": "Walk the trails, book a group picnic site, or volunteer with Sonoma County Regional Parks.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "500 Ragle Road, Sebastopol, CA 95472",
+    "eventsPage": "https://parks.sonomacounty.gov/play/calendar",
+    "instagram": "https://www.instagram.com/sonomacountyparks/",
+    "feeds": [],
+    "evidence": "https://gravensteinapplefair.com/ (2026 fair held at Ragle Ranch Park)",
+    "lat": 38.4051,
+    "lng": -122.8458
+  },
+  {
+    "id": "redwood-empire-food-bank",
+    "name": "Redwood Empire Food Bank",
+    "url": "https://refb.org/",
+    "what": "Food bank for Sonoma, Lake, Mendocino, Humboldt and Del Norte counties, with a Santa Rosa warehouse, food drives and volunteer shifts.",
+    "plugIn": "Book a volunteer shift sorting food in Santa Rosa or join a public event.",
+    "kind": "nonprofit",
+    "domains": [
+      "resilience",
+      "food-farms"
+    ],
+    "area": "nearby",
+    "town": "Fulton",
+    "address": "3990 Brickway Boulevard, Santa Rosa, CA 95403",
+    "eventsPage": "https://refb.org/news-media/events.html",
+    "instagram": "https://www.instagram.com/redwoodempirefoodbank/",
+    "feeds": [],
+    "evidence": "https://refb.org/news-media/events.html (October 2026 calendar)",
+    "lat": 38.51568,
+    "lng": -122.7933
+  },
+  {
+    "id": "redwood-empire-food-bank-sebastopol-distribution",
+    "name": "Redwood Empire Food Bank, Sebastopol distribution sites",
+    "url": "https://getfood.refb.org/getfood.html",
+    "what": "Regional food bank whose Sebastopol partner sites include walk-up grocery distributions at St. Sebastian Church and Redwood Christian Fellowship.",
+    "plugIn": "Walk up to the St. Sebastian Church distribution on Thursdays, 3:30 to 4:30 pm, or the second Wednesday morning, or find other sites on the food bank map.",
+    "kind": "nonprofit",
+    "domains": [
+      "resilience",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7983 Covert Ln, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/redwoodempirefoodbank/",
+    "feeds": [],
+    "evidence": "https://api.accessfood.org/api/MapInformation/LocationSchedules?LocationIds=8476,8483,8527,8528 (current weekly schedules, fetched 2026-10-20)",
+    "lat": 38.40523,
+    "lng": -122.83935
+  },
+  {
+    "id": "redwood-hill-farm",
+    "name": "Redwood Hill Farm (Capracopia)",
+    "url": "https://redwoodhillfarm.org/",
+    "what": "Family goat dairy farm on Thomas Road with an orchard, olive grove and flower field, open for reserved farm tours.",
+    "plugIn": "Reserve a farm tour to meet the goats and see the farm's solar and rainwater systems.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "5480 Thomas Road, Sebastopol, CA 95472",
+    "eventsPage": "https://redwoodhillfarm.org/tours/visit-the-farm/",
+    "instagram": "https://www.instagram.com/capracopia/",
+    "feeds": [],
+    "evidence": "https://redwoodhillfarm.org/tours/visit-the-farm/ (tour reservations open, copyright 2026)",
+    "lat": 38.45381,
+    "lng": -122.90329
+  },
+  {
+    "id": "reichwage-winery",
+    "name": "Reichwage Winery",
+    "url": "https://www.reichwage.com/",
+    "what": "Small winery and cider maker on Pleasant Hill Road with a tasting room and live music afternoons.",
+    "plugIn": "Visit the tasting room or come to a live music afternoon.",
+    "kind": "business",
+    "domains": [
+      "food-farms",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1689 Pleasant Hill Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.reichwage.com/upcoming-events",
+    "instagram": "https://www.instagram.com/reichwage_winery/",
+    "feeds": [],
+    "evidence": "https://www.reichwage.com/upcoming-events (pick-up party with live music Oct 25; live music Nov 29)",
+    "lat": 38.37907,
+    "lng": -122.83305
+  },
+  {
+    "id": "rialto-cinemas-sebastopol",
+    "name": "Rialto Cinemas Sebastopol",
+    "url": "https://rialtocinemas.com/sebastopol/",
+    "what": "Independent movie theater on McKinley Street showing new films, classics, free family matinees, film series and opera and theatre broadcasts.",
+    "plugIn": "Buy a ticket for a screening, join the movielover club, or ask about hosting a community screening.",
+    "kind": "business",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6868 McKinley Street, Sebastopol, CA 95472",
+    "eventsPage": "https://rialtocinemas.com/special-events/",
+    "instagram": "https://www.instagram.com/rialtocinemas/",
+    "feeds": [],
+    "evidence": "https://rialtocinemas.com/special-events/ (Met Opera Carmen on Nov 14 and 18, 2026; Giant on Dec 3, 2026)",
+    "lat": 38.4037,
+    "lng": -122.82314
+  },
+  {
+    "id": "rocks-and-clouds-zendo",
+    "name": "Rocks and Clouds Zendo",
+    "url": "https://www.rocksandcloudszendo.org/",
+    "what": "Zen practice community on South Main Street with zazen, walking meditation, koan study and dharma talks.",
+    "plugIn": "Sit with the group on Wednesday nights, 7 to 8:30 pm, in person or on Zoom, or join the weekday 7 am online sitting.",
+    "kind": "faith",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "618 S Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.rocksandcloudszendo.org/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.rocksandcloudszendo.org/ (2025 and 2026 schedule and Zendo revitalization fund)",
+    "lat": 38.39687,
+    "lng": -122.82141
+  },
+  {
+    "id": "rotary-club-of-sebastopol",
+    "name": "Rotary Club of Sebastopol",
+    "url": "https://sebastopolrotary.com/",
+    "what": "Service club founded in 1925 that runs Learn to Swim, teacher grants, the Overcoming Obstacles awards and the Lobster Bash fundraiser.",
+    "plugIn": "Visit a Friday noon lunch meeting with a guest speaker at the Community Church Memorial Hall, or buy Lobster Bash tickets.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1000 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolrotary.com/events/calendar",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://sebastopolrotary.com/calendar-feed"
+      }
+    ],
+    "evidence": "https://sebastopolrotary.com/calendar-feed",
+    "lat": 38.38957,
+    "lng": -122.81562
+  },
+  {
+    "id": "russian-river-chamber-of-commerce",
+    "name": "Russian River Chamber of Commerce",
+    "url": "https://russianriver.com/",
+    "what": "Chamber and visitor center in Guerneville that lists lower Russian River events such as holiday parades, live music and nature walks.",
+    "plugIn": "Browse the river events list or stop by the visitor center on First Street.",
+    "kind": "civic",
+    "domains": [
+      "civic",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": "16209 First Street, Guerneville, CA 95446",
+    "eventsPage": "https://web.russianriver.com/events/",
+    "instagram": "https://www.instagram.com/russianriverchamber/",
+    "feeds": [],
+    "evidence": "https://russianriver.com/ (2026 event listings)",
+    "lat": 38.5015,
+    "lng": -122.9978
+  },
+  {
+    "id": "russian-river-farmers-market",
+    "name": "Russian River Farmers Market (Guerneville)",
+    "url": "https://www.russianriverfarmersmarket.com/",
+    "what": "Thursday summer farmers market in Guerneville behind Hubert Hall, run by the Santa Rosa Original market, with Market Match and senior days.",
+    "plugIn": "Shop on Thursdays in season, June through August.",
+    "kind": "market",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": "4th Street and Church Street, Guerneville, CA 95446",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/guernevillefarmersmarket/",
+    "feeds": [],
+    "evidence": "https://www.russianriverfarmersmarket.com/ (2025 season, June 5 to August 28)"
+  },
+  {
+    "id": "russian-river-historical-society",
+    "name": "Russian River Historical Society",
+    "url": "https://russianriverhistory.org/",
+    "what": "History group for the lower Russian River that keeps local artifacts and runs history events such as a yearly cemetery tour in Guerneville.",
+    "plugIn": "Go to a history tour or talk, or volunteer with the collection.",
+    "kind": "nonprofit",
+    "domains": [
+      "learning",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": null,
+    "eventsPage": "https://russianriverhistory.org/event-calendar/",
+    "instagram": "https://www.instagram.com/russianriverhistoricalsociety/",
+    "feeds": [],
+    "evidence": "https://russianriverhistory.org/events/annual-redwood-memorial-gardens-cemetery-tour-2026/ (October 17, 2026)"
+  },
+  {
+    "id": "russian-riverkeeper",
+    "name": "Russian Riverkeeper",
+    "url": "https://russianriverkeeper.org/",
+    "what": "Watershed group for the Russian River that runs monthly river and road cleanups in Guerneville, Santa Rosa Creek and Cloverdale.",
+    "plugIn": "Join a monthly cleanup. Gloves, grabbers and bags are provided.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "resilience"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": null,
+    "eventsPage": "https://russianriverkeeper.org/events/",
+    "instagram": "https://www.instagram.com/rriverkeeper/",
+    "feeds": [],
+    "evidence": "https://russianriverkeeper.org/events/ (cleanups listed October 24 to December 6, 2026)"
+  },
+  {
+    "id": "ruthless-kindness",
+    "name": "Ruthless Kindness",
+    "url": "https://ruthlesskindness.org/",
+    "what": "Sebastopol nonprofit that helps survivors of domestic violence and people in crisis keep their pets, with free veterinary care, boarding and foster homes.",
+    "plugIn": "Volunteer, join the Kindness Circle of supporters, or reach out for help keeping a pet safe during a crisis.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/ruthlesskindness/",
+    "feeds": [],
+    "evidence": "https://ruthlesskindness.org/ (City of Sebastopol proclamation, October 7, 2025)"
+  },
+  {
+    "id": "santa-rosa-arts-center",
+    "name": "Santa Rosa Arts Center",
+    "url": "https://santarosaartscenter.org/",
+    "what": "Member-run gallery in the SOFA district of Santa Rosa with monthly shows, receptions and art classes.",
+    "plugIn": "Go to a show opening, take a class, or join as a member artist.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "312 South A Street, Santa Rosa, CA 95401",
+    "eventsPage": "https://santarosaartscenter.org/events/",
+    "instagram": "https://www.instagram.com/santarosaartscenter/",
+    "feeds": [],
+    "evidence": "https://santarosaartscenter.org/current-shows/ (Small Works show, September 3 to October 31, 2026)",
+    "lat": 38.43372,
+    "lng": -122.71498
+  },
+  {
+    "id": "santa-rosa-junior-college",
+    "name": "Santa Rosa Junior College",
+    "url": "https://www.santarosa.edu/",
+    "what": "Community college whose Santa Rosa campus hosts public lectures, colloquia, exhibits, concerts, theater and workshops.",
+    "plugIn": "Pick a public talk, show or exhibit on the college calendar. Many are free.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "1501 Mendocino Avenue, Santa Rosa, CA 95401",
+    "eventsPage": "https://calendar.santarosa.edu/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.santarosa.edu/live/ical/events/category/Santa%20Rosa%20Campus",
+        "skip": "asl hours|application q|transfer|drop-in hours|piq|rep - in person|field trip|noodletools|navigating research|research remix|petaluma\\)"
+      }
+    ],
+    "evidence": "https://calendar.santarosa.edu/",
+    "lat": 38.45482,
+    "lng": -122.71742
+  },
+  {
+    "id": "santa-rosa-original-certified-farmers-market",
+    "name": "Santa Rosa Original Certified Farmers Market",
+    "url": "https://thesantarosafarmersmarket.com/",
+    "what": "Year-round Saturday farmers market and seasonal Wednesday market in the Luther Burbank Center parking lot, with senior and CalFresh programs.",
+    "plugIn": "Shop the Saturday or Wednesday market, 8:30am to 1pm.",
+    "kind": "market",
+    "domains": [
+      "food-farms"
+    ],
+    "area": "nearby",
+    "town": "Larkfield-Wikiup",
+    "address": "50 Mark West Springs Road, Santa Rosa, CA 95403",
+    "eventsPage": "https://thesantarosafarmersmarket.com/calendar/santarosaoriginalfarmersmarketcalendar/",
+    "instagram": "https://www.instagram.com/santarosafarmersmarket/",
+    "feeds": [],
+    "evidence": "https://thesantarosafarmersmarket.com/calendar/santarosaoriginalfarmersmarketcalendar/ (October 2026 market dates)",
+    "lat": 38.49641,
+    "lng": -122.75028
+  },
+  {
+    "id": "santa-rosa-symphony",
+    "name": "Santa Rosa Symphony",
+    "url": "https://www.srsymphony.org/",
+    "what": "Orchestra that performs classical, pops and family concerts at the Green Music Center and runs youth ensembles.",
+    "plugIn": "Buy a concert ticket, bring kids to a family concert, or audition for a youth ensemble.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "1801 East Cotati Avenue, Rohnert Park, CA 94928",
+    "eventsPage": "https://www.srsymphony.org/event-calendar/",
+    "instagram": "https://www.instagram.com/srsymphony/",
+    "feeds": [],
+    "evidence": "https://www.srsymphony.org/event-calendar/ (2026 to 2027 season)",
+    "lat": 38.33781,
+    "lng": -122.67814
+  },
+  {
+    "id": "science-buzz-cafe",
+    "name": "Science Buzz Cafe",
+    "url": "http://www.sciencebuzzcafe.org/",
+    "what": "Volunteer-run science talk series in Sebastopol where a speaker presents a topic and the audience discusses it over food and drink.",
+    "plugIn": "Come on the 2nd or 4th Monday at 6 pm to the HopMonk Abbey; RSVP for $7 or pay $10 at the door.",
+    "kind": "informal",
+    "domains": [
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "230 Petaluma Ave, Sebastopol, CA 95472",
+    "eventsPage": "http://www.sciencebuzzcafe.org/wp-content/uploads/2026/09/SBC-Schedule-thru-March-2027-.pdf",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "http://www.sciencebuzzcafe.org/wp-content/uploads/2026/09/SBC-Schedule-thru-March-2027-.pdf (talks Sept 2026 to Jan 2027)",
+    "lat": 38.40157,
+    "lng": -122.82269
+  },
+  {
+    "id": "sebastopol-ag-boosters",
+    "name": "Sebastopol Ag Boosters",
+    "url": "https://sebastopolagboosters.org/",
+    "what": "Parent and supporter group that raises money for Analy High School agriculture classes and the Sebastopol FFA chapter's travel and competitions.",
+    "plugIn": "Come to a monthly general board meeting in the Analy agriculture classroom, open to all members, or the annual dinner dance fundraiser.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://sebastopolagboosters.org/about/meetings/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolagboosters.org/about/meetings/ (board meetings Nov 5 2026 to May 2027; dinner dance Nov 14 2026 at the Community Center)"
+  },
+  {
+    "id": "sebastopol-area-chamber-of-commerce-and-visitor",
+    "name": "Sebastopol Area Chamber of Commerce and Visitor Center",
+    "url": "https://www.sebastopol.org/",
+    "what": "Business association and visitor center on South Main Street that hosts the Best of Sebastopol community awards and keeps a public events calendar.",
+    "plugIn": "Stop by the visitor center, attend the community awards, or post a public event through the calendar's submission form.",
+    "kind": "business",
+    "domains": [
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "265 S Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://business.sebastopol.org/events/calendar/",
+    "instagram": "https://www.instagram.com/sebastopolcoc/",
+    "feeds": [],
+    "evidence": "https://business.sebastopol.org/events/details/50th-annual-best-of-sebastopol-community-awards-5052230",
+    "lat": 38.40055,
+    "lng": -122.82323
+  },
+  {
+    "id": "sebastopol-area-senior-center",
+    "name": "Sebastopol Area Senior Center",
+    "url": "https://sebastopolseniorcenter.org/",
+    "what": "Nonprofit center for adults 60 and older with classes, the Harvest Cafe, free rides, fall prevention, medical equipment loans and caregiver help.",
+    "plugIn": "Become a member, take a class or workshop, eat at the Harvest Cafe, request a ride, or volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "wellbeing",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "167 N High St, Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolseniorcenter.org/calendar/",
+    "instagram": "https://www.instagram.com/sebastopolareaseniorcenter/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.google.com/calendar/ical/0lqjoduvir74rmhbk43t4nour8%40group.calendar.google.com/public/basic.ics",
+        "skip": "tech help|phone help|instagram help|android|blood pressure|foot care|hicap|medicare"
+      }
+    ],
+    "evidence": "https://sebastopolseniorcenter.org/ (Aged to Perfection fundraiser Oct 24 2026)",
+    "lat": 38.40276,
+    "lng": -122.82623
+  },
+  {
+    "id": "sebastopol-area-time-bank",
+    "name": "Sebastopol Area Time Bank",
+    "url": "https://sebastopoltimebank.org/",
+    "what": "Free member network where neighbors trade services by the hour instead of for money, with a repair cafe, group walks and an annual picnic.",
+    "plugIn": "Apply for membership, then post offers and requests on the member site or come to a repair cafe or walk.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/sebastopolareatimebank/",
+    "feeds": [],
+    "evidence": "https://sebastopoltimebank.org/ (Summer 2026, Spring 2026 and Winter 2026 newsletters)"
+  },
+  {
+    "id": "sebastopol-carbon-conversations",
+    "name": "Sebastopol Carbon Conversations (Rahus Institute)",
+    "url": "https://rahus.org/scc/",
+    "what": "Free climate talks at the Sebastopol Grange, run by the Rahus Institute with the Grange, on topics like food waste, home electrification and solar.",
+    "plugIn": "RSVP for a Conversation at the Grange, usually 7 pm, or sign up for a hands-on solar workshop at the Rahus shop on Mill Station Road.",
+    "kind": "nonprofit",
+    "domains": [
+      "resilience",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6000 Sebastopol Ave (Hwy 12), Sebastopol, CA 95472",
+    "eventsPage": "https://rahus.org/scc/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://rahus.org/scc/ (Reducing Food Waste, Oct 14 2026; Solar + Battery Box Workshop, Oct 11 2026); https://www.cityofsebastopol.gov/youre-invited-the-sebastopol-climate-action-committee-has-partnered-with-sebastopol-carbon-conversations-to-hold-an-education-event-about-reducing-food-waste/",
+    "lat": 38.40709,
+    "lng": -122.80647
+  },
+  {
+    "id": "sebastopol-center-for-the-arts",
+    "name": "Sebastopol Center for the Arts (SebArts)",
+    "url": "https://www.sebarts.org/",
+    "what": "Arts center on South High Street with gallery shows, art and ceramics classes, writers salons, life drawing and youth art programs.",
+    "plugIn": "Take a class, drop in to a life drawing meet-up or writers salon, see an exhibition, or volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "282 South High Street, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebarts.org/classes-and-events",
+    "instagram": "https://www.instagram.com/sebastopolarts/",
+    "feeds": [
+      {
+        "format": "squarespace",
+        "url": "https://www.sebarts.org/classes-lectures?format=json"
+      }
+    ],
+    "evidence": "https://www.sebarts.org/classes-lectures/writers-salon-october ; https://www.sebarts.org/classes-lectures/poetry-lives-in-october-2026",
+    "lat": 38.4009,
+    "lng": -122.82518
+  },
+  {
+    "id": "sebastopol-charter-school",
+    "name": "Sebastopol Charter School",
+    "url": "https://sebastopolcharter.org/",
+    "what": "Public Waldorf school for TK to grade 8 on Gravenstein Highway North, free to attend and admitted by lottery.",
+    "plugIn": "Join a school-day parent tour or the open house on January 30, 2027, or volunteer through the Charter Foundation.",
+    "kind": "school",
+    "domains": [
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1111 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolcharter.org/enrollment/enrollment-events/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolcharter.org/enrollment/enrollment-events/ (Open House Jan 30 2027, parent tours through Feb 10 2027)",
+    "lat": 38.41284,
+    "lng": -122.84299
+  },
+  {
+    "id": "sebastopol-christian-church",
+    "name": "Sebastopol Christian Church",
+    "url": "https://www.sebchristian.com/",
+    "what": "Christian congregation near downtown, founded in 1966, with Sunday worship, life groups, youth ministry and the Barnabas service ministry.",
+    "plugIn": "Attend Sunday worship at 10 am, join a life group, or volunteer with its service ministry.",
+    "kind": "faith",
+    "domains": [
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7433 Bodega Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebchristian.com/events",
+    "instagram": "https://www.instagram.com/sebastopolchristianchurch/",
+    "feeds": [],
+    "evidence": "https://www.sebchristian.com/ (2026 site, Sunday services)",
+    "lat": 38.4001,
+    "lng": -122.82802
+  },
+  {
+    "id": "sebastopol-climate-action-committee",
+    "name": "Sebastopol Climate Action Committee",
+    "url": "https://www.cityofsebastopol.gov/boards-commissions-committees/climate-action-committee/",
+    "what": "Resident committee that advises the City Council on climate goals and meets the second Tuesday of each month, 3:30 to 5 pm.",
+    "plugIn": "Attend a monthly hybrid meeting at City Hall or online, give public comment, or come to its public talks.",
+    "kind": "government",
+    "domains": [
+      "civic",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7120 Bodega Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.cityofsebastopol.gov/your-government/city-meeting-calendar/",
+    "instagram": "https://www.instagram.com/cityofsebastopolca/",
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/events/climate-action-committee-meeting-november-10-2026/",
+    "lat": 38.40186,
+    "lng": -122.82504
+  },
+  {
+    "id": "sebastopol-community-cultural-center",
+    "name": "Sebastopol Community Cultural Center",
+    "url": "https://seb.org/",
+    "what": "Nonprofit community center on Morris Street with dance and movement classes, concerts, author talks, youth programs and hall rentals.",
+    "plugIn": "Take a weekly class, buy a ticket to a concert or talk, bring kids to a workshop, or volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "art-culture",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "390 Morris St, Sebastopol, CA 95472",
+    "eventsPage": "https://seb.org/events",
+    "instagram": "https://www.instagram.com/sebastopolcommunity/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://seb.org/wp-json/tribe/events/v1/events",
+        "skip": "private event|rental"
+      }
+    ],
+    "evidence": "https://seb.org/ (Family Circus Arts workshop Oct 25 2026, author talk Nov 8 2026)",
+    "lat": 38.40843,
+    "lng": -122.81997
+  },
+  {
+    "id": "sebastopol-community-garden",
+    "name": "Sebastopol Community Garden (Laguna Skategarden)",
+    "url": "https://www.cityofsebastopol.gov/community-garden/",
+    "what": "City community garden plots at the Laguna Skategarden park across from The Barlow, rented for a small yearly fee.",
+    "plugIn": "Ask the city Planning Department for a plot or a spot on the waitlist, or volunteer to help keep up the park.",
+    "kind": "government",
+    "domains": [
+      "food-farms",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6750 Laguna Park Way, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/cityofsebastopolca/",
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/community-garden/ (current city page, copyright 2026)",
+    "lat": 38.40509,
+    "lng": -122.82072
+  },
+  {
+    "id": "sebastopol-documentary-film-festival",
+    "name": "Sebastopol Documentary Film Festival",
+    "url": "https://www.sebastopolfilm.org/",
+    "what": "Documentary film festival run by Sebastopol Center for the Arts; the next one runs April 15 to 18, 2027.",
+    "plugIn": "Buy a festival pass, join the film society, or volunteer at screenings.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "282 South High Street, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/sebastopoldocs/",
+    "feeds": [],
+    "evidence": "https://www.sebastopolfilm.org/ (2026 award winners listed, 2027 dates set, passes on sdff2027.eventive.org)",
+    "lat": 38.4009,
+    "lng": -122.82518
+  },
+  {
+    "id": "sebastopol-farmers-market",
+    "name": "Sebastopol Farmers Market",
+    "url": "https://www.sebastopolfarmersmarket.org/",
+    "what": "Year-round Sunday farmers and makers market on Weeks Way downtown, open 9am to 1:30pm rain or shine, with food access programs.",
+    "plugIn": "Shop the market on Sunday morning, apply as a vendor, or donate to its food access programs.",
+    "kind": "market",
+    "domains": [
+      "food-farms",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6908 Weeks Way, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebastopolfarmersmarket.org/events",
+    "instagram": "https://www.instagram.com/sebastopolfarmersmarket/",
+    "feeds": [],
+    "evidence": "https://www.sebastopolfarmersmarket.org/ (Wix site data created 2025-03-24; lists every Sunday 9:00am to 1:30pm all year)",
+    "lat": 38.40307,
+    "lng": -122.82327
+  },
+  {
+    "id": "sebastopol-gallery",
+    "name": "Sebastopol Gallery",
+    "url": "https://www.sebastopolgallery.com/",
+    "what": "Gallery on North Main Street showing local artists, with exhibition receptions and painting and drawing classes in its Main Street Studio.",
+    "plugIn": "Visit the current show, come to an opening reception, or book a watercolor, pastel or sketchbook class.",
+    "kind": "business",
+    "domains": [
+      "art-culture",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "186 N. Main Street, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sebastopolgallery.com/shows",
+    "instagram": "https://www.instagram.com/sebastopolgallery/",
+    "feeds": [],
+    "evidence": "https://www.sebastopolgallery.com/shows (Andrea Oreck show Oct 6 to Nov 28, 2026, reception Nov 8); https://www.sebastopolgallery.com/classes (classes Oct 2026 to Jan 2027)",
+    "lat": 38.40326,
+    "lng": -122.825
+  },
+  {
+    "id": "sebastopol-grange-306",
+    "name": "Sebastopol Grange #306",
+    "url": "https://sebastopolgrange.org/",
+    "what": "Grange hall on Highway 12 with monthly potluck meetings, a Monday sing-along, a home gardener produce exchange and Sebastopol Carbon Conversations.",
+    "plugIn": "Come to the monthly general meeting and potluck, the Love Choir sing-along on Mondays, or the produce exchange; anyone may join.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "food-farms",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6000 Sebastopol Ave (Hwy 12), Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolgrange.org/calendar/",
+    "instagram": "https://www.instagram.com/sebastopolgrange/",
+    "feeds": [],
+    "evidence": "https://sebastopolgrange.org/ (General Meeting and Potluck Oct 27 2026)",
+    "lat": 38.40709,
+    "lng": -122.80647
+  },
+  {
+    "id": "sebastopol-gravenstein-lions-club",
+    "name": "Sebastopol Gravenstein Lions Club",
+    "url": "https://e-clubhouse.org/sites/sebastopolglc/",
+    "what": "Lions service club that meets twice a month at the Masonic Lodge, hosts a free speaker series and runs a chili cook-off.",
+    "plugIn": "Come to the free speaker series on the third Wednesday of each month at 7 pm at the Masonic Center on North Main Street.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "373 N Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://e-clubhouse.org/sites/sebastopolglc/calendar.php",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://e-clubhouse.org/sites/sebastopolglc/ (2026 chili cook-off winners); https://sebastopolcalendar.com/event/sebastopol-turkey-trot/ (co-host, Nov 26 2026)",
+    "lat": 38.40464,
+    "lng": -122.8257
+  },
+  {
+    "id": "sebastopol-inter-church-food-pantry",
+    "name": "Sebastopol Inter-Church Food Pantry",
+    "url": "https://uccseb.org/mission-outreach/",
+    "what": "Grocery pantry for West County residents run by Community Church, St. Stephen's Episcopal and Sebastopol United Methodist on the St. Stephen's grounds.",
+    "plugIn": "Call 707-823-2483 between 10 and 11:30 am for an appointment; pickups are Monday, Wednesday and Friday 10 am to noon, once a month.",
+    "kind": "faith",
+    "domains": [
+      "resilience",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "500 Robinson Rd, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://api.accessfood.org/api/MapInformation/LocationSchedules?LocationIds=8527 (Mon, Wed, Fri 10 am to noon, fetched 2026-10-20); https://uccseb.org/mission-outreach/",
+    "lat": 38.39772,
+    "lng": -122.83131
+  },
+  {
+    "id": "sebastopol-little-league",
+    "name": "Sebastopol Little League",
+    "url": "https://sebastopollittleleague.org/",
+    "what": "Volunteer-run youth baseball league since 1957, with spring and fall seasons at Polley Field in Ives Park.",
+    "plugIn": "Sign a child up for spring baseball or fall ball, or help at a field work party or the snack shack.",
+    "kind": "nonprofit",
+    "domains": [
+      "neighbors",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7400 Willow St, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/wp-content/uploads/2025/09/2026-SEBLL-Annual-Report-City-of-Sebastopol.pdf (Jan 6 2026: 385 players in spring 2025, signups open for 2026)",
+    "lat": 38.39942,
+    "lng": -122.82596
+  },
+  {
+    "id": "sebastopol-meditation-meetup-group",
+    "name": "Sebastopol Meditation Meetup Group",
+    "url": "https://www.meetup.com/sebastopol-meditation-meetup-group/",
+    "what": "Small group offering secular guided meditations rooted in Tibetan Buddhist practice, plus Good Cause Yin Yoga classes that donate proceeds to local nonprofits.",
+    "plugIn": "RSVP on Meetup for a guided meditation or a Good Cause Yin Yoga class; no experience needed.",
+    "kind": "informal",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://www.meetup.com/sebastopol-meditation-meetup-group/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "meetup",
+        "url": "https://www.meetup.com/sebastopol-meditation-meetup-group/events/ical/"
+      }
+    ],
+    "evidence": "https://www.meetup.com/sebastopol-meditation-meetup-group/events/ical/"
+  },
+  {
+    "id": "sebastopol-planning-commission-and-design-review",
+    "name": "Sebastopol Planning Commission and Design Review/Tree Board",
+    "url": "https://www.cityofsebastopol.gov/events/planning-commission-meeting-november-10-2026/",
+    "what": "City boards that review land use, building design and tree permits, meeting in hybrid sessions at the Youth Annex on Morris Street.",
+    "plugIn": "Attend a Planning Commission meeting at 6 pm or a Design Review/Tree Board meeting at 3:30 pm and give public comment on projects.",
+    "kind": "government",
+    "domains": [
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "425 Morris St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.cityofsebastopol.gov/your-government/city-meeting-calendar/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.cityofsebastopol.gov/events/planning-commission-meeting-november-10-2026/ ; https://www.cityofsebastopol.gov/events/design-review-tree-board-meeting-october-27-2026/",
+    "lat": 38.40637,
+    "lng": -122.81982
+  },
+  {
+    "id": "sebastopol-ready",
+    "name": "Sebastopol Ready",
+    "url": "https://sebastopolready.org/",
+    "what": "Emergency preparedness site built with the Map Your Neighborhood leader council, with neighborhood plans, evacuation zones, radio and CERT information.",
+    "plugIn": "Join the mailing list for trainings, organize your street with the Meet Your Neighbors booklet, or take a county CERT class.",
+    "kind": "civic",
+    "domains": [
+      "resilience",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolready.org/ (points to the county CERT training of March 2026)"
+  },
+  {
+    "id": "sebastopol-regional-library",
+    "name": "Sebastopol Regional Library",
+    "url": "https://sonomalibrary.org/visit/locations/sebastopol",
+    "what": "Sonoma County Library branch with books, computers and free programs, including storytimes at Ives Park and STEAM labs at the Youth Annex.",
+    "plugIn": "Get a free library card, drop in to a storytime, class or talk, or borrow from the collection.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7140 Bodega Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://events.sonomalibrary.org/events",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B102%5D=102"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B102%5D=102",
+    "lat": 38.40181,
+    "lng": -122.82517
+  },
+  {
+    "id": "sebastopol-seventh-day-adventist-church",
+    "name": "Sebastopol Seventh-day Adventist Church",
+    "url": "https://sebastopolsda.org/",
+    "what": "Adventist congregation on Gravenstein Highway North whose Community Services gives out food, clothes and shoes on the first and third Wednesday mornings.",
+    "plugIn": "Bring an ID to Community Services, 8:30 am to noon on the 1st and 3rd Wednesdays, or attend Saturday worship at 11 am.",
+    "kind": "faith",
+    "domains": [
+      "resilience",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1665 Gravenstein Hwy N, Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolsda.org/events/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolsda.org/ (Communion Sabbath Oct 24 2026); https://sebastopolsda.org/ministries1/community-services/ ; Redwood Empire Food Bank network listing (1st and 3rd Wednesday, 8:30 am to noon)",
+    "lat": 38.42029,
+    "lng": -122.84594
+  },
+  {
+    "id": "sebastopol-times",
+    "name": "Sebastopol Times",
+    "url": "https://www.sebastopoltimes.com/",
+    "what": "Independent local news site for Sebastopol and west Sonoma County that also runs the What's Happening in Sebastopol community calendar.",
+    "plugIn": "Subscribe by email, read the weekly events roundup, or post your group's event on sebastopolcalendar.com.",
+    "kind": "media",
+    "domains": [
+      "civic"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://sebastopolcalendar.com/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.sebastopoltimes.com/feed (posts dated Oct 19 and Oct 20 2026, including the Oct 16 City Council candidate forum)"
+  },
+  {
+    "id": "sebastopol-union-school-district",
+    "name": "Sebastopol Union School District",
+    "url": "https://www.sebastopolschools.org/",
+    "what": "Public district for Park Side Elementary, Brook Haven Middle and the CASTLE preschool, with an elected school board and a bond oversight committee.",
+    "plugIn": "Attend a school board meeting, join a site council, or support the Sebastopol Education Foundation.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7611 Huntley St, Sebastopol, CA 95472",
+    "eventsPage": "https://sebastopolschools.org/district-calendar",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.sebastopolschools.org/ (2026 board and calendar items)",
+    "lat": 38.40092,
+    "lng": -122.83097
+  },
+  {
+    "id": "sebastopol-united-methodist-church",
+    "name": "Sebastopol United Methodist Church",
+    "url": "https://sebumc.wordpress.com/",
+    "what": "Methodist congregation on North Main Street that runs the Saturday Table lunch, food drives for the Inter-Church Food Pantry and hosts 12-step meetings.",
+    "plugIn": "Join Sunday worship at 9:30 am with live music, help with the Saturday Table lunch, or attend a 12-step meeting in Room 2.",
+    "kind": "faith",
+    "domains": [
+      "neighbors",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "500 N Main St, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebumc.wordpress.com/ (2026 newsletter and ministry listings)",
+    "lat": 38.40577,
+    "lng": -122.82659
+  },
+  {
+    "id": "sebastopol-west-100",
+    "name": "Sebastopol West 100",
+    "url": "https://sw100.org/",
+    "what": "Giving circle backed by the Community Foundation Sonoma County that pools member donations to fund nonprofits in Sebastopol and nearby West County towns.",
+    "plugIn": "Join as a member to vote on grants, or attend the annual membership meeting and grant ceremony.",
+    "kind": "nonprofit",
+    "domains": [
+      "civic",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://sw100.org/events/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://sw100.org/events/?ical=1"
+      }
+    ],
+    "evidence": "https://sw100.org/events/?ical=1 ; https://sw100.org/ (2025 grant award winners)"
+  },
+  {
+    "id": "sebastopol-world-friends",
+    "name": "Sebastopol World Friends",
+    "url": "https://sebastopolwf.org/",
+    "what": "Volunteer nonprofit that runs Sebastopol's sister city programs with Takeo, Japan and Chyhyryn, Ukraine, including exchanges, home stays and aid projects.",
+    "plugIn": "Host a visiting guest, attend a general membership meeting or a fundraiser such as the Ukrainian shashlik fest, or volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "civic",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://sebastopolwf.org/swfevents/volunteer-opportunities/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sebastopolwf.org/ (Shashlik and Beer Fest Oct 4, general meeting Nov 4, Sister Cities International 2026 award); https://www.cityofsebastopol.gov/sister-city-delegation-from-takeo-japan-visits-during-apple-blossom-parade/"
+  },
+  {
+    "id": "singing-frogs-farm",
+    "name": "Singing Frogs Farm",
+    "url": "https://www.singingfrogsfarm.com/",
+    "what": "No-till vegetable and flower farm on Ferguson Road with veggie and flower CSA shares and hands-on workshops for home and market growers.",
+    "plugIn": "Register for a seasonal home farmer or flower workshop, book a farm tour, or join the CSA.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "learning",
+      "land-water"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "1301 Ferguson Road, Sebastopol, CA 95472",
+    "eventsPage": "https://www.singingfrogsfarm.com/workshops",
+    "instagram": "https://www.instagram.com/singingfrogsfarm/",
+    "feeds": [],
+    "evidence": "https://www.singingfrogsfarm.com/workshops (2026 workshops, two autumn dates left)",
+    "lat": 38.40954,
+    "lng": -122.86739
+  },
+  {
+    "id": "sirens-studio-for-youth-and-the-arts",
+    "name": "Sirens Studio for Youth and the Arts",
+    "url": "https://www.sirensstudio.org/",
+    "what": "Nonprofit arts space on Hutchins Avenue with indoor and outdoor stages, belly dance and yoga classes, and shows.",
+    "plugIn": "Take a dance or yoga class, see a show, or rent the hall.",
+    "kind": "nonprofit",
+    "domains": [
+      "art-culture",
+      "wellbeing",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "234 Hutchins Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sirensstudio.org/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.sirensstudio.org/ (Day of Illusion 10/4 and 10/18, Beaucoup de Bellies 10/25)",
+    "lat": 38.39324,
+    "lng": -122.8108
+  },
+  {
+    "id": "slow-food-russian-river",
+    "name": "Slow Food Russian River",
+    "url": "https://slowfoodrr.org/",
+    "what": "Volunteer food group that runs farm and producer tours, pruning workshops, potlucks and a community apple press, mostly around Sebastopol.",
+    "plugIn": "Come to a tour, workshop or potluck, reserve or volunteer at the apple press, or join as a member.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://slowfoodrr.org/events",
+    "instagram": "https://www.instagram.com/slowfoodrussianriver/",
+    "feeds": [
+      {
+        "format": "tribe",
+        "url": "https://slowfoodrr.org/wp-json/tribe/events/v1/events"
+      }
+    ],
+    "evidence": "https://slowfoodrr.org/wp-json/tribe/events/v1/events?per_page=20&start_date=2025-01-01 (Apple Tree Pruning Workshop 2026-02-01; Snail of Approval event at Sebastopol Grange 2026-02-25)"
+  },
+  {
+    "id": "sonoma-clean-power",
+    "name": "Sonoma Clean Power",
+    "url": "https://sonomacleanpower.org/",
+    "what": "Public electricity provider for Sonoma and Mendocino counties, with a customer center in Santa Rosa and public board and advisory meetings.",
+    "plugIn": "Visit the Santa Rosa customer center or attend a board or advisory committee meeting.",
+    "kind": "government",
+    "domains": [
+      "resilience",
+      "civic"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "741 Fourth Street, Santa Rosa, CA 95404",
+    "eventsPage": "https://sonomacleanpower.org/calendar",
+    "instagram": "https://www.instagram.com/sonomacleanpower/",
+    "feeds": [],
+    "evidence": "https://sonomacleanpower.org/calendar (October 2026 meetings)",
+    "lat": 38.44156,
+    "lng": -122.71172
+  },
+  {
+    "id": "sonoma-county-ag-open-space",
+    "name": "Sonoma County Ag + Open Space",
+    "url": "https://www.sonomaopenspace.org/",
+    "what": "County district that buys and protects farmland and open space, and lists public outings on its preserves along with its board meetings.",
+    "plugIn": "Sign up for a public outing on a protected preserve, or attend a board meeting.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "food-farms",
+      "civic"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://www.sonomaopenspace.org/outings-events/",
+    "instagram": "https://www.instagram.com/sonomaopenspace/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.sonomaopenspace.org/events.ics"
+      }
+    ],
+    "evidence": "https://www.sonomaopenspace.org/outings-events/ (public outings October 24 and 30, 2026)"
+  },
+  {
+    "id": "sonoma-county-bicycle-coalition",
+    "name": "Sonoma County Bicycle Coalition",
+    "url": "https://www.bikesonoma.org/",
+    "what": "Countywide bicycle advocacy group with adult cycling classes, kids learn to ride classes, women's group rides and bike valet at events.",
+    "plugIn": "Take a Smart Cycling class, join a group ride, or volunteer at bike valet.",
+    "kind": "nonprofit",
+    "domains": [
+      "civic",
+      "wellbeing",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://www.bikesonoma.org/events/",
+    "instagram": "https://www.instagram.com/bikesonoma/",
+    "feeds": [],
+    "evidence": "https://www.bikesonoma.org/ (2026 city council candidate questionnaires)"
+  },
+  {
+    "id": "sonoma-county-farm-trails",
+    "name": "Sonoma County Farm Trails",
+    "url": "https://www.farmtrails.org/",
+    "what": "Nonprofit network of Sonoma County farms that runs the Gravenstein Apple Fair, spring and fall farm tours and a countywide farm events calendar.",
+    "plugIn": "Visit member farms on the open farm tours, volunteer at the Apple Fair, or use the calendar to find farm classes near Sebastopol.",
+    "kind": "nonprofit",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": null,
+    "eventsPage": "https://www.farmtrails.org/events/",
+    "instagram": "https://www.instagram.com/sonomacountyfarmtrails/",
+    "feeds": [],
+    "evidence": "https://www.farmtrails.org/event/the-art-of-broom-making/ ; https://www.farmtrails.org/events/"
+  },
+  {
+    "id": "sonoma-county-japanese-american-citizens-league",
+    "name": "Sonoma County Japanese American Citizens League",
+    "url": "https://sonomacountyjacl.org/",
+    "what": "Civil rights and cultural group that teaches about the Japanese American experience, with a speakers bureau, scholarships, mochitsuki and children's culture workshops.",
+    "plugIn": "Become a member, request a speaker, or join a workshop or mochitsuki held at the Enmanji Memorial Hall.",
+    "kind": "nonprofit",
+    "domains": [
+      "civic",
+      "art-culture",
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "515 Petaluma Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://sonomacountyjacl.org/calendar/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://sonomacountyjacl.org/ (Kamishibai 2026 program, Sept 10 2026 statement, Oct 17 2025 workshop at Enmanji Memorial Hall)",
+    "lat": 38.39813,
+    "lng": -122.821
+  },
+  {
+    "id": "sonoma-county-library-central-santa-rosa-library",
+    "name": "Sonoma County Library: Central Santa Rosa Library",
+    "url": "https://sonomalibrary.org/visit/locations/central",
+    "what": "Main downtown Santa Rosa branch of the county library, with talks, classes, story times, a media lab and history programs.",
+    "plugIn": "Check the branch calendar and walk in. Most programs are free and need no sign-up.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "211 E Street, Santa Rosa, CA 95404",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B84%5D=84"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B84%5D=84",
+    "lat": 38.44123,
+    "lng": -122.71027
+  },
+  {
+    "id": "sonoma-county-library-forestville-community-libr",
+    "name": "Sonoma County Library: Forestville Community Library",
+    "url": "https://sonomalibrary.org/visit/locations/forestville",
+    "what": "Small county library branch in Forestville with story times and community programs.",
+    "plugIn": "Check the branch calendar and walk in to a free program.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Forestville",
+    "address": "7050 Covey Road, Forestville, CA 95436",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B94%5D=94"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B94%5D=94",
+    "lat": 38.48184,
+    "lng": -122.89024
+  },
+  {
+    "id": "sonoma-county-library-guerneville-regional-libra",
+    "name": "Sonoma County Library: Guerneville Regional Library",
+    "url": "https://sonomalibrary.org/visit/locations/guerneville",
+    "what": "County library branch in Guerneville with family story times, teen volunteer days, Friends of the Library meetings and adult programs.",
+    "plugIn": "Check the branch calendar and walk in to a free program.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": "14107 Armstrong Woods Road, Guerneville, CA 95446",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B95%5D=95"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B95%5D=95",
+    "lat": 38.50348,
+    "lng": -122.99757
+  },
+  {
+    "id": "sonoma-county-library-northwest-santa-rosa-libra",
+    "name": "Sonoma County Library: Northwest Santa Rosa Library",
+    "url": "https://sonomalibrary.org/visit/locations/northwest",
+    "what": "County library branch at Coddingtown with story times, teen and adult programs, and classes.",
+    "plugIn": "Check the branch calendar and walk in to a free program.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "150 Coddingtown Center, Santa Rosa, CA 95401",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B97%5D=97"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B97%5D=97",
+    "lat": 38.45806,
+    "lng": -122.72688
+  },
+  {
+    "id": "sonoma-county-library-occidental-community-libra",
+    "name": "Sonoma County Library: Occidental Community Library",
+    "url": "https://sonomalibrary.org/visit/locations/occidental",
+    "what": "Small county library branch on Main Street in Occidental with occasional community programs.",
+    "plugIn": "Check the branch calendar and walk in to a free program.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Occidental",
+    "address": "73 Main Street, Occidental, CA 95465",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B98%5D=98"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B98%5D=98",
+    "lat": 38.4066,
+    "lng": -122.94743
+  },
+  {
+    "id": "sonoma-county-library-rohnert-park-cotati-region",
+    "name": "Sonoma County Library: Rohnert Park Cotati Regional Library",
+    "url": "https://sonomalibrary.org/visit/locations/rohnertparkcotati",
+    "what": "County library branch for Rohnert Park and Cotati, with the building closed and Library To Go service running from State Farm Drive.",
+    "plugIn": "Use the Library To Go site and check the branch calendar for programs.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "6135 State Farm Drive, Rohnert Park, CA 94928",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B101%5D=101"
+      }
+    ],
+    "evidence": "https://sonomalibrary.org/visit/locations/rohnertparkcotati",
+    "lat": 38.35114,
+    "lng": -122.70617
+  },
+  {
+    "id": "sonoma-county-library-roseland-regional-library",
+    "name": "Sonoma County Library: Roseland Regional Library",
+    "url": "https://sonomalibrary.org/visit/locations/roseland",
+    "what": "County library branch on Sebastopol Road in southwest Santa Rosa with bilingual programs, story times and family events.",
+    "plugIn": "Check the branch calendar and walk in to a free program.",
+    "kind": "government",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": "470 Sebastopol Road, Santa Rosa, CA 95407",
+    "eventsPage": "https://events.sonomalibrary.org/events/month",
+    "instagram": "https://www.instagram.com/sonomalibrary/",
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://events.sonomalibrary.org/events/feed/ical?branches%5B189%5D=189"
+      }
+    ],
+    "evidence": "https://events.sonomalibrary.org/events/feed/ical?branches%5B189%5D=189",
+    "lat": 38.4304,
+    "lng": -122.7259
+  },
+  {
+    "id": "sonoma-county-regional-parks",
+    "name": "Sonoma County Regional Parks",
+    "url": "https://parks.sonomacounty.gov/",
+    "what": "County parks department running guided hikes, bird walks, paddles, senior walks and volunteer restoration days at parks including Doran and Pinnacle Gulch.",
+    "plugIn": "Register for a free outing or volunteer day on the activities calendar.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "neighbors",
+      "wellbeing"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://parks.sonomacounty.gov/play/calendar",
+    "instagram": "https://www.instagram.com/sonomacountyparks/",
+    "feeds": [],
+    "evidence": "https://parks.sonomacounty.gov/play/calendar (events listed October 21 to November 7, 2026)"
+  },
+  {
+    "id": "sonoma-land-trust",
+    "name": "Sonoma Land Trust",
+    "url": "https://sonomalandtrust.org/",
+    "what": "Land trust that protects open land in the county and runs guided hikes, field trips and webinars, including walks near Monte Rio and Estero Americano.",
+    "plugIn": "Register for a guided walk or field trip on the events page.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://sonomalandtrust.org/all-events-outings/",
+    "instagram": "https://www.instagram.com/sonomalandtrust/",
+    "feeds": [
+      {
+        "format": "eventbrite",
+        "url": "https://www.eventbrite.com/o/sonoma-land-trust-sonoma-county-ag-open-space-31667418009"
+      }
+    ],
+    "evidence": "https://sonomalandtrust.org/all-events-outings/"
+  },
+  {
+    "id": "sonoma-state-university",
+    "name": "Sonoma State University",
+    "url": "https://www.sonoma.edu/",
+    "what": "State university in Rohnert Park whose public calendar lists lectures, films, performing arts, workshops and community events.",
+    "plugIn": "Pick a public lecture, film or performance from the events calendar.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "art-culture"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "1801 East Cotati Avenue, Rohnert Park, CA 94928",
+    "eventsPage": "https://www.sonoma.edu/calendar",
+    "instagram": "https://www.instagram.com/sonomastateuniversity/",
+    "feeds": [],
+    "evidence": "https://www.sonoma.edu/calendar (events listed October 20, 2026); site blocks curl, loaded in a browser",
+    "lat": 38.33781,
+    "lng": -122.67814
+  },
+  {
+    "id": "spreckels-performing-arts-center",
+    "name": "Spreckels Performing Arts Center",
+    "url": "https://spreckelsonline.com/",
+    "what": "City of Rohnert Park theater with a resident theatre company, dance shows, special events and youth performing arts classes.",
+    "plugIn": "Buy a ticket to a show or enroll a child in a class or camp.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "neighbors"
+    ],
+    "area": "nearby",
+    "town": "Rohnert Park",
+    "address": "5409 Snyder Lane, Rohnert Park, CA 94928",
+    "eventsPage": "https://spreckelsonline.com/buy-tickets/",
+    "instagram": "https://www.instagram.com/spreckelstheatrecompany/",
+    "feeds": [],
+    "evidence": "https://spreckelsonline.com/buy-tickets/ (shows listed November 27, 2026 to spring 2027)",
+    "lat": 38.34432,
+    "lng": -122.68557
+  },
+  {
+    "id": "srjc-shone-farm",
+    "name": "SRJC Shone Farm",
+    "url": "https://calendar.santarosa.edu/",
+    "what": "Santa Rosa Junior College teaching farm in Forestville that holds seasonal public sales of produce, plants and farm goods.",
+    "plugIn": "Go to a public farm sale listed on the college calendar.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Forestville",
+    "address": null,
+    "eventsPage": "https://calendar.santarosa.edu/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.santarosa.edu/live/ical/events/category/Shone%20Farm"
+      }
+    ],
+    "evidence": "https://calendar.santarosa.edu/live/ical/events/category/Shone%20Farm"
+  },
+  {
+    "id": "st-stephen-s-episcopal-church",
+    "name": "St. Stephen's Episcopal Church",
+    "url": "https://www.ststephenssebastopol.org/",
+    "what": "Episcopal parish on Robinson Road with a labyrinth, outdoor sacred space, play area, a food pantry and a monthly dinner and speaker series.",
+    "plugIn": "Walk the labyrinth, come to Sunday Eucharist at 9:30 am, the Talk with Your Mouth Full dinner series, or the Harvest Fun day.",
+    "kind": "faith",
+    "domains": [
+      "neighbors",
+      "wellbeing",
+      "food-farms"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "500 Robinson Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.ststephenssebastopol.org/calendar",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://calendar.google.com/calendar/ical/office%40ststephenssebastopol.org/public/basic.ics",
+        "skip": "staff meeting|vestry|choir|committee|music conversations"
+      }
+    ],
+    "evidence": "https://calendar.google.com/calendar/ical/office%40ststephenssebastopol.org/public/basic.ics (events Oct 25 to Dec 25 2026)",
+    "lat": 38.39772,
+    "lng": -122.83131
+  },
+  {
+    "id": "stewards-of-the-coast-and-redwoods",
+    "name": "Stewards of the Coast and Redwoods",
+    "url": "https://stewardscr.org/",
+    "what": "Nonprofit partner of State Parks at Armstrong Redwoods and the Sonoma Coast, with docent walks, nature journaling, naturalist courses and whale watch training.",
+    "plugIn": "Join a docent walk or program, or train as a park volunteer.",
+    "kind": "nonprofit",
+    "domains": [
+      "land-water",
+      "learning"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": "17000 Armstrong Woods Road, Guerneville, CA 95446",
+    "eventsPage": "https://stewardscr.org/upcoming-events-programs/",
+    "instagram": "https://www.instagram.com/stewardsofcr/",
+    "feeds": [],
+    "evidence": "https://stewardscr.org/upcoming-events-programs/ (programs listed November 7 to December 17, 2026)",
+    "lat": 38.51892,
+    "lng": -122.99694
+  },
+  {
+    "id": "sunridge-school",
+    "name": "SunRidge School",
+    "url": "https://www.sunridgeschool.org/",
+    "what": "Public charter school in the Twin Hills district on Hayden Avenue, with a parent council and an educational foundation.",
+    "plugIn": "Book a prospective parent tour, or come to the Fallin' Leaves Festival on its campus.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7285 Hayden Ave, Sebastopol, CA 95472",
+    "eventsPage": "https://www.sunridgeschool.org/calendar1",
+    "instagram": "https://www.instagram.com/sunridge_school/",
+    "feeds": [],
+    "evidence": "https://sebastopolcalendar.com/event/fallin-leaves-festival-2/ (Nov 7 2026)",
+    "lat": 38.39384,
+    "lng": -122.82245
+  },
+  {
+    "id": "the-barlow",
+    "name": "The Barlow",
+    "url": "https://thebarlow.net/",
+    "what": "Twelve-acre market district in a former apple cannery with shops, restaurants, breweries and wineries, plus weekly kids crafts, trivia and karaoke.",
+    "plugIn": "Bring kids to the free weekly Barlow Builders craft time, play Thursday trivia at Golden State Cider, or check the community calendar.",
+    "kind": "venue",
+    "domains": [
+      "art-culture",
+      "food-farms",
+      "neighbors"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "6770 McKinley St, Sebastopol, CA 95472",
+    "eventsPage": "https://thebarlow.net/pages/calendar",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://thebarlow.net/pages/calendar ; https://thebarlow.net/blogs/press/new-sonoma-county-restaurants-opening-in-2026",
+    "lat": 38.4042,
+    "lng": -122.8208
+  },
+  {
+    "id": "twin-hills-union-school-district",
+    "name": "Twin Hills Union School District",
+    "url": "https://www.twinhillsusd.org/",
+    "what": "Public district west of town running Apple Blossom School, Twin Hills Charter Middle School, SunRidge School and Orchard View School.",
+    "plugIn": "Attend a board meeting, volunteer at a school, or support one of its educational foundations.",
+    "kind": "school",
+    "domains": [
+      "learning"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "700 Watertrough Rd, Sebastopol, CA 95472",
+    "eventsPage": "https://www.twinhillsusd.org/calendar1",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.twinhillsusd.org/ (Board of Trustees regular meeting agenda October 8, 2026)",
+    "lat": 38.38954,
+    "lng": -122.85102
+  },
+  {
+    "id": "two-waves-yoga",
+    "name": "Two Waves Yoga",
+    "url": "https://www.twowavesyoga.com/",
+    "what": "Yoga and sound studio on Healdsburg Avenue with daily flow, yin, restorative, mat Pilates and candlelit classes.",
+    "plugIn": "Book a drop-in class or the two-week new student pass through Mindbody.",
+    "kind": "business",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "7385 Healdsburg Avenue, Suite 204, Sebastopol, CA 95472",
+    "eventsPage": "https://www.twowavesyoga.com/explore-classes",
+    "instagram": "https://www.instagram.com/twowavesyoga/",
+    "feeds": [],
+    "evidence": "https://www.twowavesyoga.com/ (weekly class schedule posted, booking on Mindbody)",
+    "lat": 38.40519,
+    "lng": -122.8303
+  },
+  {
+    "id": "uc-davis-bodega-marine-laboratory",
+    "name": "UC Davis Bodega Marine Laboratory",
+    "url": "https://marinescience.ucdavis.edu/bml",
+    "what": "University marine research station on the Bodega Head with free Friday docent tours, a seminar series and Science Uncorked talks in Bodega Bay.",
+    "plugIn": "Reserve a free Friday tour or go to a Science Uncorked talk.",
+    "kind": "school",
+    "domains": [
+      "learning",
+      "land-water"
+    ],
+    "area": "nearby",
+    "town": "Bodega Bay",
+    "address": "2099 Westshore Road, Bodega Bay, CA 94923",
+    "eventsPage": "https://marinescience.ucdavis.edu/events-calendar",
+    "instagram": "https://www.instagram.com/ucdavismarinescience/",
+    "feeds": [],
+    "evidence": "https://marinescience.ucdavis.edu/events-calendar (public tours June 5 to November 20, 2026; Science Uncorked October 21 to December 16, 2026); site blocks curl, loaded in a browser",
+    "lat": 38.32612,
+    "lng": -123.05558
+  },
+  {
+    "id": "uc-master-gardener-program-of-sonoma-county",
+    "name": "UC Master Gardener Program of Sonoma County",
+    "url": "https://ucanr.edu/site/mg-sonoma",
+    "what": "University of California extension volunteers who answer home garden questions and give free garden talks and workshops around the county.",
+    "plugIn": "Go to a free garden talk or hands-on workshop, or bring a plant question to a help desk.",
+    "kind": "school",
+    "domains": [
+      "food-farms",
+      "learning",
+      "resilience"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://ucanr.edu/upcoming-group-events/15064",
+    "instagram": "https://www.instagram.com/sonomacountymg/",
+    "feeds": [],
+    "evidence": "https://ucanr.edu/upcoming-group-events/15064 (5 events, October 24 to November 2026); site blocks curl, loaded in a browser"
+  },
+  {
+    "id": "west-county-community-services",
+    "name": "West County Community Services",
+    "url": "https://westcountyservices.org/",
+    "what": "Social services nonprofit based in Guerneville with a weekly food pantry, senior meals, housing help and counseling.",
+    "plugIn": "Use or volunteer at the Wednesday food pantry in Guerneville.",
+    "kind": "nonprofit",
+    "domains": [
+      "resilience",
+      "neighbors",
+      "wellbeing"
+    ],
+    "area": "nearby",
+    "town": "Guerneville",
+    "address": "16390 Main Street, Guerneville, CA 95446",
+    "eventsPage": "https://westcountyservices.org/category/events/",
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://westcountyservices.org/category/events/ (Give Back Tuesday, January and June 2026)",
+    "lat": 38.50204,
+    "lng": -122.99999
+  },
+  {
+    "id": "west-county-health-centers",
+    "name": "West County Health Centers (Gravenstein Community Health Center)",
+    "url": "https://www.wchealth.org/",
+    "what": "Nonprofit community clinics with primary care, dental, behavioral health and wellness services, including the Gravenstein center on Petaluma Avenue.",
+    "plugIn": "Become a patient, use the wellness services, or call the Sebastopol health center to book a visit.",
+    "kind": "nonprofit",
+    "domains": [
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "652 Petaluma Ave, Suite H/D, Sebastopol, CA 95472",
+    "eventsPage": null,
+    "instagram": null,
+    "feeds": [],
+    "evidence": "https://www.wchealth.org/location/gravenstein-community-health-center/ (phone change noted 2/10/26)",
+    "lat": 38.39651,
+    "lng": -122.82009
+  },
+  {
+    "id": "west-county-regional-trail",
+    "name": "West County Regional Trail",
+    "url": "https://parks.sonomacounty.gov/visit/find-a-park/west-county-regional-trail",
+    "what": "Mostly paved 5.5-mile county trail beside Highway 116 linking Sebastopol, Graton and Forestville, with a boardwalk through the Atascadero Creek wetland.",
+    "plugIn": "Walk, run or bike the trail from one of its Sebastopol trailheads.",
+    "kind": "government",
+    "domains": [
+      "land-water",
+      "wellbeing"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "9251 Ross Station Rd, Sebastopol (trailhead)",
+    "eventsPage": null,
+    "instagram": "https://www.instagram.com/sonomacountyparks/",
+    "feeds": [],
+    "evidence": "https://parks.sonomacounty.gov/visit/find-a-park/west-county-regional-trail (current county park page)",
+    "lat": 38.45881,
+    "lng": -122.8856
+  },
+  {
+    "id": "western-sonoma-county-historical-society",
+    "name": "Western Sonoma County Historical Society",
+    "url": "https://www.wschs.org/",
+    "what": "Nonprofit that runs the free West County Museum on South Main Street and Luther Burbank's Gold Ridge Experiment Farm, plus the yearly Cemetery Walk.",
+    "plugIn": "Visit the museum free on weekends 11 am to 2 pm, walk the Burbank farm any day, volunteer, or buy Cemetery Walk tickets.",
+    "kind": "nonprofit",
+    "domains": [
+      "learning",
+      "art-culture"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "261 S Main St, Sebastopol, CA 95472",
+    "eventsPage": "https://www.wschs.org/calendar/",
+    "instagram": null,
+    "feeds": [
+      {
+        "format": "ics",
+        "url": "https://www.wschs.org/events.ics",
+        "skip": "museum (is )?open|open hours|^open\\b"
+      }
+    ],
+    "evidence": "https://sebastopolcalendar.com/event/sebastopol-cemetery-walk/ (23rd Cemetery Walk, Oct 2 and 3 2026); https://www.wschs.org/events.ics",
+    "lat": 38.40057,
+    "lng": -122.82324
+  },
+  {
+    "id": "yagi-sisters-farm",
+    "name": "Yagi Sisters Farm",
+    "url": "https://www.yagisistersfarm.com/",
+    "what": "Small vegetable and herb farm in Sebastopol that grows myoga, shares plant starts with urban growers and opens for u-pick days and group workdays.",
+    "plugIn": "RSVP for a u-pick day or book a group workday on the farm.",
+    "kind": "farm",
+    "domains": [
+      "food-farms",
+      "resilience"
+    ],
+    "area": "sebastopol",
+    "town": "Sebastopol",
+    "address": "2185 Gravenstein Hwy S, Sebastopol, CA 95472",
+    "eventsPage": "https://www.yagisistersfarm.com/upick",
+    "instagram": "https://www.instagram.com/yagisistersfarm/",
+    "feeds": [],
+    "evidence": "https://www.yagisistersfarm.com/upick (u-pick Friday 9/25 and Saturday 9/26, 2026)",
+    "lat": 38.37944,
+    "lng": -122.79923
+  },
+  {
+    "id": "zero-waste-sonoma",
+    "name": "Zero Waste Sonoma",
+    "url": "https://zerowastesonoma.gov/",
+    "what": "County waste agency that runs household hazardous waste collection days, e-waste drop-offs, clothing swaps and Zero Waste Week.",
+    "plugIn": "Bring hazardous waste or e-waste to a scheduled collection event, or go to a swap.",
+    "kind": "government",
+    "domains": [
+      "resilience",
+      "civic"
+    ],
+    "area": "nearby",
+    "town": "Santa Rosa",
+    "address": null,
+    "eventsPage": "https://zerowastesonoma.gov/calendar",
+    "instagram": "https://www.instagram.com/zerowastesonoma/",
+    "feeds": [],
+    "evidence": "https://zerowastesonoma.gov/calendar (collection events November and December 2026)"
+  }
+]

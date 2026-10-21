@@ -1,0 +1,50 @@
+[
+  {
+    "id": "food-farms",
+    "label": "Farms & Food",
+    "color": "#5E7D3A",
+    "blurb": "Farms, orchards, farmers markets, gardens, cider and harvest days."
+  },
+  {
+    "id": "land-water",
+    "label": "Land & Water",
+    "color": "#3F6E86",
+    "blurb": "Creeks, the Laguna, trails, the coast, restoration and nature walks."
+  },
+  {
+    "id": "resilience",
+    "label": "Resilience & Mutual Aid",
+    "color": "#A84A2C",
+    "blurb": "Wildfire and flood preparedness, mutual aid, food pantries and climate work."
+  },
+  {
+    "id": "art-culture",
+    "label": "Arts & Culture",
+    "color": "#B9822F",
+    "blurb": "Music, film, galleries, readings, theater and festivals."
+  },
+  {
+    "id": "neighbors",
+    "label": "Neighbors & Families",
+    "color": "#8A4B66",
+    "blurb": "Kids, teens, seniors, newcomers and community gatherings."
+  },
+  {
+    "id": "civic",
+    "label": "Civic Life",
+    "color": "#2F6B66",
+    "blurb": "City meetings, local groups, businesses and local news."
+  },
+  {
+    "id": "learning",
+    "label": "Learning & Libraries",
+    "color": "#5B6670",
+    "blurb": "Library programs, classes, talks and workshops."
+  },
+  {
+    "id": "wellbeing",
+    "label": "Body, Mind & Spirit",
+    "color": "#6F5A93",
+    "blurb": "Yoga, meditation, movement, health and spiritual practice."
+  }
+]

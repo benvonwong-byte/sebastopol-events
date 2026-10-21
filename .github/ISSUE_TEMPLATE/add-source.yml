@@ -1,0 +1,25 @@
+name: Add a calendar
+description: A link to a group's calendar or feed. A bot reads it and replies here within a couple of minutes.
+title: "Add calendar: "
+labels: [add-source]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Paste the link to wherever the group keeps its events: a Luma calendar, a public Google Calendar, a Meetup group, an Eventbrite organizer page, an .ics or RSS feed, or an events page on the group's site. A bot reads it, counts the upcoming events in Sebastopol and nearby, and replies here. Once a maintainer approves, the calendar is read every morning.
+  - type: input
+    id: url
+    attributes:
+      label: Calendar or feed link
+      placeholder: https://luma.com/your-calendar
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Group or calendar name
+      placeholder: Sebastopol Garden Club
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else we should know
