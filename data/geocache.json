@@ -24,6 +24,11 @@
   "lng": -122.898391937378,
   "at": 1792544496170
  },
+ "117 morris st, sebastopol, ca 95472": {
+  "lat": 38.40333531418,
+  "lng": -122.819111419987,
+  "at": 1792692312114
+ },
  "11830 main st, penngrove, ca 94951": {
   "lat": 38.295924708209,
   "lng": -122.666356536536,
@@ -53,6 +58,11 @@
   "lat": 38.402410885022,
   "lng": -122.824452389139,
   "at": 1792543450244
+ },
+ "122 n. main street, sebastopol, ca 95472": {
+  "lat": 38.402410885022,
+  "lng": -122.824452389139,
+  "at": 1792692312002
  },
  "130 avram avenue, rohnert park, ca 94928": {
   "lat": 38.342488223997,
@@ -148,6 +158,11 @@
   "lat": 38.502044369125,
   "lng": -122.999989918974,
   "at": 1792544499216
+ },
+ "16467 california-116, guerneville, ca 95446": {
+  "lat": null,
+  "lng": null,
+  "at": 1792692312314
  },
  "1665 gravenstein hwy n, sebastopol, ca 95472": {
   "lat": 38.420288317721,
@@ -769,6 +784,11 @@
   "lng": null,
   "at": 1792543551590
  },
+ "bodega head, 3799 westshore rd., bodega bay, 94923": {
+  "lat": 38.326117936859,
+  "lng": -123.055578393159,
+  "at": 1792692221927
+ },
  "botanica, 3970 azalea ave, sebastopol, 95472": {
   "lat": 38.358462973366,
   "lng": -122.787539441088,
@@ -954,6 +974,11 @@
   "lng": -122.825695424381,
   "at": 1792543520522
  },
+ "meadowview elementary, 2665 dutton meadow, santa rosa, 95407": {
+  "lat": 38.412127917155,
+  "lng": -122.72938445107,
+  "at": 1792692221719
+ },
  "media room": {
   "lat": null,
   "lng": null,
@@ -1064,6 +1089,16 @@
   "lng": null,
   "at": 1792543497398
  },
+ "roseland university prep, 1931 biwana dr #1, santa rosa, 95407": {
+  "lat": 38.419276454683,
+  "lng": -122.730834409593,
+  "at": 1792692221829
+ },
+ "round barn, 819 donahue street, santa rosa, 95401": {
+  "lat": 38.440047694193,
+  "lng": -122.724331602188,
+  "at": 1792692222012
+ },
  "sanctuary": {
   "lat": null,
   "lng": null,
@@ -1078,6 +1113,11 @@
   "lat": null,
   "lng": null,
   "at": 1792544495988
+ },
+ "santa rosa charter school for the arts, 756 humboldt street, santa rosa, 95404": {
+  "lat": 38.446824950141,
+  "lng": -122.714629420089,
+  "at": 1792692222102
  },
  "santa rosa farmers’ market at farmers lane plaza, 1501 farmers lane, santa rosa, ca, 95405, united states": {
   "lat": 38.434179356939,
