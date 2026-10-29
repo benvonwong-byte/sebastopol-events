@@ -404,6 +404,11 @@
   "lng": -122.861335743463,
   "at": 1792543449297
  },
+ "425 morris st , sebastopol, ca, 95472, us": {
+  "lat": 38.406369851544,
+  "lng": -122.819819669582,
+  "at": 1793300558647
+ },
  "425 morris st, sebastopol , ca, 95472, us": {
   "lat": 38.406369851544,
   "lng": -122.819819669582,
@@ -1178,6 +1183,11 @@
   "lat": 38.496414570516,
   "lng": -122.750280229141,
   "at": 1792543567632
+ },
+ "santa rosa peace and justice center, 467 sebastopol ave., santa rosa, 95401": {
+  "lat": 38.433344441238,
+  "lng": -122.713935669494,
+  "at": 1793300506009
  },
  "santa rosa veteran’s memeorial building, 1351 maple ave, santa rosa, ca, 95404, united states": {
   "lat": 38.433821982831,
