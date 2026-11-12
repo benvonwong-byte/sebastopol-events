@@ -974,6 +974,11 @@
   "lng": null,
   "at": 1792543538832
  },
+ "garcia hall - santa rosa campus": {
+  "lat": null,
+  "lng": null,
+  "at": 1794517097468
+ },
  "gather sebastopol, 122 n main st, sebastopol, 95472": {
   "lat": 38.402410885022,
   "lng": -122.824452389139,
@@ -998,6 +1003,11 @@
   "lat": 38.343967152358,
   "lng": -122.806372399083,
   "at": 1792543517233
+ },
+ "gourmet mushrooms, inc. &#8211; mycopia, 2901 gravenstein highway north, sebastopol, 95472": {
+  "lat": 38.373031981556,
+  "lng": -122.789386784841,
+  "at": 1794517106004
  },
  "graton town square": {
   "lat": null,
