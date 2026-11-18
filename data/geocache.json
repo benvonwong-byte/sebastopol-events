@@ -9,6 +9,11 @@
   "lng": -122.815618887582,
   "at": 1792543448433
  },
+ "104 n. main street, sebastopol, ca 94931": {
+  "lat": 38.40218241122,
+  "lng": -122.824315132778,
+  "at": 1795037427444
+ },
  "1111 gravenstein hwy n, sebastopol, ca 95472": {
   "lat": 38.412840571565,
   "lng": -122.842987860228,
@@ -279,6 +284,11 @@
   "lng": -122.799234997249,
   "at": 1792544499803
  },
+ "2227 capricorn way, suite 100, santa rosa, ca 95407": {
+  "lat": 38.424495503607,
+  "lng": -122.751081785423,
+  "at": 1795037427864
+ },
  "230 petaluma ave, sebastopol, ca 95472": {
   "lat": 38.401571959469,
   "lng": -122.822692265478,
@@ -533,6 +543,11 @@
   "lat": 38.45380598867,
   "lng": -122.903290195965,
   "at": 1792544497128
+ },
+ "583 harrison street, sebastopol, ca 95472": {
+  "lat": 38.406647391303,
+  "lng": -122.827988214676,
+  "at": 1795037427315
  },
  "6000 sebastopol ave (hwy 12), sebastopol, ca 95472": {
   "lat": 38.407094256469,
@@ -1318,6 +1333,11 @@
   "lat": null,
   "lng": null,
   "at": 1792543597485
+ },
+ "sebastopol community cultural center &#8211; music hall (main hall), 390 morris st, sebastopol, 95472": {
+  "lat": null,
+  "lng": null,
+  "at": 1795037367369
  },
  "sebastopol community cultural center, 390 morris st, sebastopol, ca 95472, usa": {
   "lat": 38.4084274,
